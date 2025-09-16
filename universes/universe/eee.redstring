@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T03:31:02.075Z",
-    "modified": "2025-09-16T03:31:02.075Z",
+    "created": "2025-09-16T03:31:06.800Z",
+    "modified": "2025-09-16T03:31:06.800Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -238,12 +238,20 @@
         "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "name": "Thing",
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Thing",
+          "http://dbpedia.org/resource/Thing",
+          "http://www.wikidata.org/entity/Q12452291"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Thing",
+          "http://dbpedia.org/resource/Thing",
+          "http://www.wikidata.org/entity/Q12452291"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -258,7 +266,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
+          "redstring:lastViewed": "2025-09-16T03:31:06.800Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -302,7 +310,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
+          "redstring:lastViewed": "2025-09-16T03:31:06.800Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -385,6 +393,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "base-thing-prototype",
+        "title": "Thing",
         "isActive": true
       }
     ],
@@ -443,12 +457,20 @@
         "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "name": "Thing",
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Thing",
+          "http://dbpedia.org/resource/Thing",
+          "http://www.wikidata.org/entity/Q12452291"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Thing",
+          "http://dbpedia.org/resource/Thing",
+          "http://www.wikidata.org/entity/Q12452291"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -463,7 +485,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
+          "redstring:lastViewed": "2025-09-16T03:31:06.800Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -507,7 +529,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
+          "redstring:lastViewed": "2025-09-16T03:31:06.800Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
