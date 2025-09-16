@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T03:28:22.729Z",
-    "modified": "2025-09-16T03:28:22.729Z",
+    "created": "2025-09-16T03:30:53.232Z",
+    "modified": "2025-09-16T03:30:53.232Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:28:22.729Z",
+          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -271,9 +271,9 @@
         ],
         "@id": "prototype:a5751cb0-d252-4cd2-becf-a5aa807a79e1",
         "rdfs:label": "New Thing",
-        "rdfs:comment": "",
+        "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "name": "New Thing",
-        "description": "",
+        "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
@@ -304,7 +304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:28:22.729Z",
+          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -326,7 +326,27 @@
           "a5751cb0-d252-4cd2-becf-a5aa807a79e1"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "9e5b9af1-e20b-4ef9-b29c-1efe7c487a42": {
+            "@type": "redstring:Instance",
+            "@id": "instance:9e5b9af1-e20b-4ef9-b29c-1efe7c487a42",
+            "rdf:type": {
+              "@id": "prototype:base-thing-prototype"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a74f2609-9ef7-42be-9a9d-de37c0a4f94f"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 4.30000000000291,
+              "redstring:yCoordinate": -296,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "base-thing-prototype"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -385,7 +405,27 @@
           "a5751cb0-d252-4cd2-becf-a5aa807a79e1"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "9e5b9af1-e20b-4ef9-b29c-1efe7c487a42": {
+            "@type": "redstring:Instance",
+            "@id": "instance:9e5b9af1-e20b-4ef9-b29c-1efe7c487a42",
+            "rdf:type": {
+              "@id": "prototype:base-thing-prototype"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:a74f2609-9ef7-42be-9a9d-de37c0a4f94f"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 4.30000000000291,
+              "redstring:yCoordinate": -296,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "base-thing-prototype"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -425,7 +465,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:28:22.729Z",
+          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -438,9 +478,9 @@
         ],
         "@id": "prototype:a5751cb0-d252-4cd2-becf-a5aa807a79e1",
         "rdfs:label": "New Thing",
-        "rdfs:comment": "",
+        "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "name": "New Thing",
-        "description": "",
+        "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
@@ -471,7 +511,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:28:22.729Z",
+          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
