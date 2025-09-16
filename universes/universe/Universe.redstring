@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-07T23:49:38.638Z",
-    "modified": "2025-09-07T23:49:38.638Z",
+    "created": "2025-09-16T05:18:23.745Z",
+    "modified": "2025-09-16T05:18:23.745Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -292,7 +292,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -332,11 +332,10 @@
         "redstring:definitionGraphIds": [
           "42f3b7e0-f097-43f9-ac32-20b804f89706"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -456,7 +455,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -491,7 +490,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -531,11 +530,10 @@
         "redstring:definitionGraphIds": [
           "42f3b7e0-f097-43f9-ac32-20b804f89706"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-07T23:49:38.638Z",
+          "redstring:lastViewed": "2025-09-16T05:18:23.745Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
