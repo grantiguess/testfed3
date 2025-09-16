@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T04:22:09.394Z",
-    "modified": "2025-09-16T04:22:09.394Z",
-    "title": "blimbud",
+    "created": "2025-09-16T04:22:18.194Z",
+    "modified": "2025-09-16T04:22:18.194Z",
+    "title": "Untitled Space",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -258,53 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:22:09.394Z",
-          "redstring:cognitiveAssociations": []
-        },
-        "redstring:abstractionChains": {}
-      },
-      "d1ae5550-b6fa-4d50-8ae0-950878149d6f": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:d1ae5550-b6fa-4d50-8ae0-950878149d6f",
-        "rdfs:label": "blimbud",
-        "rdfs:comment": "",
-        "name": "blimbud",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [
-          "d130b331-818d-4866-82fa-6a0791be1918"
-        ],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:22:09.394Z",
+          "redstring:lastViewed": "2025-09-16T04:22:18.194Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -316,24 +270,7 @@
     "@id": "space:graphs",
     "rdfs:label": "RedString Spatial Graphs",
     "rdfs:comment": "Collection of positioned instances within spatial graphs",
-    "graphs": {
-      "d130b331-818d-4866-82fa-6a0791be1918": {
-        "@type": "redstring:SpatialGraph",
-        "@id": "graph:d130b331-818d-4866-82fa-6a0791be1918",
-        "rdfs:label": "blimbud",
-        "rdfs:comment": "",
-        "redstring:definingNodeIds": [
-          "d1ae5550-b6fa-4d50-8ae0-950878149d6f"
-        ],
-        "redstring:edgeIds": [],
-        "redstring:instances": {},
-        "redstring:groups": {},
-        "redstring:visualProperties": {
-          "redstring:expanded": true,
-          "redstring:activeInContext": true
-        }
-      }
-    }
+    "graphs": {}
   },
   "relationships": {
     "@type": "redstring:RelationshipCollection",
@@ -356,14 +293,10 @@
   },
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
-    "redstring:openGraphIds": [
-      "d130b331-818d-4866-82fa-6a0791be1918"
-    ],
-    "redstring:activeGraphId": "d130b331-818d-4866-82fa-6a0791be1918",
-    "redstring:activeDefinitionNodeId": "d1ae5550-b6fa-4d50-8ae0-950878149d6f",
-    "redstring:expandedGraphIds": [
-      "d130b331-818d-4866-82fa-6a0791be1918"
-    ],
+    "redstring:openGraphIds": [],
+    "redstring:activeGraphId": null,
+    "redstring:activeDefinitionNodeId": null,
+    "redstring:expandedGraphIds": [],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
@@ -375,24 +308,7 @@
     "redstring:showConnectionNames": false
   },
   "legacy": {
-    "graphs": {
-      "d130b331-818d-4866-82fa-6a0791be1918": {
-        "@type": "redstring:SpatialGraph",
-        "@id": "graph:d130b331-818d-4866-82fa-6a0791be1918",
-        "rdfs:label": "blimbud",
-        "rdfs:comment": "",
-        "redstring:definingNodeIds": [
-          "d1ae5550-b6fa-4d50-8ae0-950878149d6f"
-        ],
-        "redstring:edgeIds": [],
-        "redstring:instances": {},
-        "redstring:groups": {},
-        "redstring:visualProperties": {
-          "redstring:expanded": true,
-          "redstring:activeInContext": true
-        }
-      }
-    },
+    "graphs": {},
     "nodePrototypes": {
       "base-thing-prototype": {
         "@type": [
@@ -425,53 +341,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:22:09.394Z",
-          "redstring:cognitiveAssociations": []
-        },
-        "redstring:abstractionChains": {}
-      },
-      "d1ae5550-b6fa-4d50-8ae0-950878149d6f": {
-        "@type": [
-          "redstring:Prototype",
-          "rdfs:Class",
-          "schema:Thing"
-        ],
-        "@id": "prototype:d1ae5550-b6fa-4d50-8ae0-950878149d6f",
-        "rdfs:label": "blimbud",
-        "rdfs:comment": "",
-        "name": "blimbud",
-        "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
-        },
-        "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
-        "owl:equivalentClass": [],
-        "redstring:spatialContext": {
-          "redstring:xCoordinate": 0,
-          "redstring:yCoordinate": 0,
-          "redstring:spatialScale": 1
-        },
-        "redstring:visualProperties": {
-          "redstring:cognitiveColor": "#8B0000"
-        },
-        "redstring:definitionGraphIds": [
-          "d130b331-818d-4866-82fa-6a0791be1918"
-        ],
-        "redstring:typeNodeId": null,
-        "redstring:citations": [],
-        "redstring:cognitiveProperties": {
-          "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T04:22:09.394Z",
+          "redstring:lastViewed": "2025-09-16T04:22:18.194Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
