@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T06:06:57.640Z",
-    "modified": "2025-09-16T06:06:57.640Z",
+    "created": "2025-09-16T06:07:22.109Z",
+    "modified": "2025-09-16T06:07:22.109Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T06:06:57.640Z",
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -304,7 +304,45 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T06:06:57.640Z",
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
+          "redstring:cognitiveAssociations": []
+        },
+        "redstring:abstractionChains": {}
+      },
+      "ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa",
+        "rdfs:label": "Big Chungus",
+        "rdfs:comment": "",
+        "name": "Big Chungus",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.dev"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -326,7 +364,27 @@
           "dc1aefad-ab6c-4b00-9148-4b2fd2bacc18"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "609d43df-ee60-4763-a0dd-61c16a956db2": {
+            "@type": "redstring:Instance",
+            "@id": "instance:609d43df-ee60-4763-a0dd-61c16a956db2",
+            "rdf:type": {
+              "@id": "prototype:ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:dbbaf30c-987d-4cd1-8c9e-0324fe73d387"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 135.51203856553184,
+              "redstring:yCoordinate": -60.21569679107779,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -385,7 +443,27 @@
           "dc1aefad-ab6c-4b00-9148-4b2fd2bacc18"
         ],
         "redstring:edgeIds": [],
-        "redstring:instances": {},
+        "redstring:instances": {
+          "609d43df-ee60-4763-a0dd-61c16a956db2": {
+            "@type": "redstring:Instance",
+            "@id": "instance:609d43df-ee60-4763-a0dd-61c16a956db2",
+            "rdf:type": {
+              "@id": "prototype:ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:dbbaf30c-987d-4cd1-8c9e-0324fe73d387"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 135.51203856553184,
+              "redstring:yCoordinate": -60.21569679107779,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa"
+          }
+        },
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
@@ -425,7 +503,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T06:06:57.640Z",
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -471,7 +549,45 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T06:06:57.640Z",
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
+          "redstring:cognitiveAssociations": []
+        },
+        "redstring:abstractionChains": {}
+      },
+      "ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:ebd9ec74-e79a-49f0-bf5b-d6d9b50b69fa",
+        "rdfs:label": "Big Chungus",
+        "rdfs:comment": "",
+        "name": "Big Chungus",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.dev"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-09-16T06:07:22.109Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
