@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T03:30:59.395Z",
-    "modified": "2025-09-16T03:30:59.395Z",
+    "created": "2025-09-16T03:31:02.075Z",
+    "modified": "2025-09-16T03:31:02.075Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
+          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -271,9 +271,9 @@
         ],
         "@id": "prototype:a5751cb0-d252-4cd2-becf-a5aa807a79e1",
         "rdfs:label": "New Thing",
-        "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
+        "rdfs:comment": "",
         "name": "New Thing",
-        "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
+        "description": "",
         "rdfs:seeAlso": [
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
+          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -463,7 +463,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
+          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -476,9 +476,9 @@
         ],
         "@id": "prototype:a5751cb0-d252-4cd2-becf-a5aa807a79e1",
         "rdfs:label": "New Thing",
-        "rdfs:comment": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
+        "rdfs:comment": "",
         "name": "New Thing",
-        "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
+        "description": "",
         "rdfs:seeAlso": [
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
@@ -507,7 +507,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
+          "redstring:lastViewed": "2025-09-16T03:31:02.075Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
