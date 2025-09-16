@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-16T03:30:53.232Z",
-    "modified": "2025-09-16T03:30:53.232Z",
+    "created": "2025-09-16T03:30:59.395Z",
+    "modified": "2025-09-16T03:30:59.395Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -258,7 +258,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
+          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -275,7 +275,6 @@
         "name": "New Thing",
         "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -284,7 +283,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -304,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
+          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -465,7 +463,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
+          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -482,7 +480,6 @@
         "name": "New Thing",
         "description": "New Thing or The New Thing may refer to:Free jazz, a subgenre of jazz music often referred to as \"The New Thing\"\nNew Thing at Newport, a 1965 free jazz album by John Coltrane and Archie Shepp\nThe New Thing & the Blue Thing, a 1965 free jazz album by Ted Curson\nNew Thing!, a 2005 compilation album of jazz music\nNew Thing 1989\nNew Thing, 2011\nNew Thang, a 2014 single by Redfoo\n\n",
         "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -491,7 +488,6 @@
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
           "http://dbpedia.org/resource/New_Thing",
           "http://www.wikidata.org/entity/Q16998778"
         ],
@@ -511,7 +507,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-16T03:30:53.232Z",
+          "redstring:lastViewed": "2025-09-16T03:30:59.395Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
