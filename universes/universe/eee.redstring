@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-17T00:19:46.761Z",
-    "modified": "2025-09-17T00:19:46.761Z",
+    "created": "2025-09-17T00:22:43.594Z",
+    "modified": "2025-09-17T00:22:43.594Z",
     "title": "eee",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -318,14 +318,18 @@
         "rdfs:comment": "",
         "name": "ooo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -340,7 +344,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -426,6 +430,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a",
+        "title": "ooo",
         "isActive": true
       }
     ],
@@ -506,7 +516,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -551,7 +561,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -567,14 +577,18 @@
         "rdfs:comment": "",
         "name": "ooo",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.dev"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/OOO"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -589,7 +603,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T00:19:46.761Z",
+          "redstring:lastViewed": "2025-09-17T00:22:43.594Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
