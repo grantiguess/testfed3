@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-17T03:27:43.250Z",
-    "modified": "2025-09-17T03:27:43.250Z",
+    "created": "2025-09-17T03:28:21.369Z",
+    "modified": "2025-09-17T03:28:21.369Z",
     "title": "eee",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -302,7 +302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -344,7 +344,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -434,38 +434,15 @@
         "sourceId": "dd014046-2c15-4619-ae31-5af36e337b00",
         "destinationId": "f71c57cf-119f-47b5-bb1e-8912c697c85f",
         "typeNodeId": "base-connection-prototype",
+        "definitionNodeIds": [
+          "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+        ],
         "directionality": {
           "arrowsToward": []
         },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:366bb8b9-5f22-4d82-ae69-12dd982504d0"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:8b1e588a-2e9a-4065-849b-7b3f7553f99a"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:8b1e588a-2e9a-4065-849b-7b3f7553f99a"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:366bb8b9-5f22-4d82-ae69-12dd982504d0"
-            }
-          }
-        ],
+        "rdfStatements": null,
         "sourcePrototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
-        "destinationPrototypeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a",
-        "predicatePrototypeId": "base-connection-prototype"
+        "destinationPrototypeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a"
       },
       "edge-1758069665591-8ijivptyb": {
         "id": "edge-1758069665591-8ijivptyb",
@@ -538,6 +515,12 @@
         "type": "node",
         "nodeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a",
         "title": "ooo",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
+        "title": "eee",
         "isActive": true
       }
     ],
@@ -643,7 +626,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -688,7 +671,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -730,7 +713,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T03:27:43.250Z",
+          "redstring:lastViewed": "2025-09-17T03:28:21.369Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -742,38 +725,15 @@
         "sourceId": "dd014046-2c15-4619-ae31-5af36e337b00",
         "destinationId": "f71c57cf-119f-47b5-bb1e-8912c697c85f",
         "typeNodeId": "base-connection-prototype",
+        "definitionNodeIds": [
+          "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+        ],
         "directionality": {
           "arrowsToward": []
         },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:366bb8b9-5f22-4d82-ae69-12dd982504d0"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:8b1e588a-2e9a-4065-849b-7b3f7553f99a"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:8b1e588a-2e9a-4065-849b-7b3f7553f99a"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:366bb8b9-5f22-4d82-ae69-12dd982504d0"
-            }
-          }
-        ],
+        "rdfStatements": null,
         "sourcePrototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
-        "destinationPrototypeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a",
-        "predicatePrototypeId": "base-connection-prototype"
+        "destinationPrototypeId": "8b1e588a-2e9a-4065-849b-7b3f7553f99a"
       },
       "edge-1758069665591-8ijivptyb": {
         "id": "edge-1758069665591-8ijivptyb",
