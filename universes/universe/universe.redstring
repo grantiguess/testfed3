@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-17T15:13:30.952Z",
-    "modified": "2025-09-17T15:13:30.952Z",
+    "created": "2025-09-17T15:14:21.949Z",
+    "modified": "2025-09-17T15:14:21.949Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -254,11 +254,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:13:30.952Z",
+          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -290,11 +289,10 @@
           "redstring:cognitiveColor": "#000000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:13:30.952Z",
+          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -373,11 +371,10 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:13:30.952Z",
+          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -409,11 +406,10 @@
           "redstring:cognitiveColor": "#000000"
         },
         "redstring:definitionGraphIds": [],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:13:30.952Z",
+          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
