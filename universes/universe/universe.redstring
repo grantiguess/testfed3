@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-17T15:14:21.949Z",
-    "modified": "2025-09-17T15:14:21.949Z",
+    "created": "2025-09-18T14:51:55.351Z",
+    "modified": "2025-09-18T14:51:55.351Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -240,7 +240,7 @@
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -254,11 +254,11 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -275,7 +275,7 @@
         "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -289,11 +289,11 @@
           "redstring:cognitiveColor": "#000000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -313,6 +313,80 @@
     "rdfs:comment": "RDF statements representing connections between instances",
     "edges": {}
   },
+  "graphs": {},
+  "nodePrototypes": {
+    "base-thing-prototype": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:base-thing-prototype",
+      "rdfs:label": "Thing",
+      "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "name": "Thing",
+      "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": null,
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "base-connection-prototype": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:base-connection-prototype",
+      "rdfs:label": "Connection",
+      "rdfs:comment": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
+      "name": "Connection",
+      "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#000000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": null,
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
+      },
+      "redstring:abstractionChains": {}
+    }
+  },
+  "edges": {},
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
     "redstring:viewport": {
@@ -357,7 +431,7 @@
         "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -371,11 +445,11 @@
           "redstring:cognitiveColor": "#8B0000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -392,7 +466,7 @@
         "description": "The base type for all connections. Connections are edges, relationships, verbs, actions, whatever you want them to be. They will always be at the bottom of the connection abstraction stack.",
         "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
-          "@id": "https://redstring.dev"
+          "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
         "owl:sameAs": [],
@@ -406,15 +480,17 @@
           "redstring:cognitiveColor": "#000000"
         },
         "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-17T15:14:21.949Z",
-          "redstring:cognitiveAssociations": []
+          "redstring:lastViewed": "2025-09-18T14:51:55.351Z"
         },
         "redstring:abstractionChains": {}
       }
     },
     "edges": {}
-  }
+  },
+  "graphLayouts": {},
+  "graphSummaries": {}
 }
