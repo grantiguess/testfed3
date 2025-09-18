@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-09-18T02:31:56.672Z",
-    "modified": "2025-09-18T02:31:56.672Z",
+    "created": "2025-09-18T02:33:01.580Z",
+    "modified": "2025-09-18T02:33:01.580Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -292,7 +292,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -308,20 +308,12 @@
         "rdfs:comment": "",
         "name": "New Thing",
         "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -338,7 +330,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -458,7 +450,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -493,7 +485,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
@@ -509,20 +501,12 @@
         "rdfs:comment": "",
         "name": "New Thing",
         "description": "",
-        "rdfs:seeAlso": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "rdfs:seeAlso": [],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": null,
-        "owl:sameAs": [
-          "https://en.wikipedia.org/wiki/New_Thing",
-          "http://dbpedia.org/resource/New_Thing",
-          "http://www.wikidata.org/entity/Q16998778"
-        ],
+        "owl:sameAs": [],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -539,7 +523,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-09-18T02:31:56.672Z",
+          "redstring:lastViewed": "2025-09-18T02:33:01.580Z",
           "redstring:cognitiveAssociations": []
         },
         "redstring:abstractionChains": {}
