@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T18:36:45.515Z",
-    "modified": "2025-10-06T18:36:45.515Z",
+    "created": "2025-10-06T18:36:51.515Z",
+    "modified": "2025-10-06T18:36:51.515Z",
     "title": "eee",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -342,7 +342,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "2327e747-8749-48e5-889a-37139b91e46a": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a",
+        "rdfs:label": "eea",
+        "rdfs:comment": "",
+        "name": "eea",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -366,10 +403,10 @@
           "edge-1758069665591-8ijivptyb"
         ],
         "redstring:panOffset": {
-          "x": -9812.874643348516,
-          "y": -10402.663140639455
+          "x": -62675.02513857884,
+          "y": -62289.94564616708
         },
-        "redstring:zoomLevel": 0.22167668251459244,
+        "redstring:zoomLevel": 1.2676700249902169,
         "redstring:instances": {
           "f71c57cf-119f-47b5-bb1e-8912c697c85f": {
             "@type": "redstring:Instance",
@@ -414,6 +451,25 @@
               "redstring:visible": true
             },
             "redstring:prototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+          },
+          "3c9d8487-a335-4c52-b77f-be4dbf0a5141": {
+            "@type": "redstring:Instance",
+            "@id": "instance:3c9d8487-a335-4c52-b77f-be4dbf0a5141",
+            "rdf:type": {
+              "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:c3c49d53-e436-485e-8ca4-a9c6435a2e42"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 136.82475232075376,
+              "redstring:yCoordinate": -451.96233507035504,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "2327e747-8749-48e5-889a-37139b91e46a"
           }
         },
         "redstring:groups": {},
@@ -483,10 +539,10 @@
         "edge-1758069665591-8ijivptyb"
       ],
       "redstring:panOffset": {
-        "x": -9812.874643348516,
-        "y": -10402.663140639455
+        "x": -62675.02513857884,
+        "y": -62289.94564616708
       },
-      "redstring:zoomLevel": 0.22167668251459244,
+      "redstring:zoomLevel": 1.2676700249902169,
       "redstring:instances": {
         "f71c57cf-119f-47b5-bb1e-8912c697c85f": {
           "@type": "redstring:Instance",
@@ -531,6 +587,25 @@
             "redstring:visible": true
           },
           "redstring:prototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+        },
+        "3c9d8487-a335-4c52-b77f-be4dbf0a5141": {
+          "@type": "redstring:Instance",
+          "@id": "instance:3c9d8487-a335-4c52-b77f-be4dbf0a5141",
+          "rdf:type": {
+            "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:c3c49d53-e436-485e-8ca4-a9c6435a2e42"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": 136.82475232075376,
+            "redstring:yCoordinate": -451.96233507035504,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "2327e747-8749-48e5-889a-37139b91e46a"
         }
       },
       "redstring:groups": {},
@@ -571,7 +646,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+        "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -615,7 +690,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+        "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -656,7 +731,44 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+        "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "2327e747-8749-48e5-889a-37139b91e46a": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a",
+      "rdfs:label": "eea",
+      "rdfs:comment": "",
+      "name": "eea",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -753,10 +865,10 @@
           "edge-1758069665591-8ijivptyb"
         ],
         "redstring:panOffset": {
-          "x": -9812.874643348516,
-          "y": -10402.663140639455
+          "x": -62675.02513857884,
+          "y": -62289.94564616708
         },
-        "redstring:zoomLevel": 0.22167668251459244,
+        "redstring:zoomLevel": 1.2676700249902169,
         "redstring:instances": {
           "f71c57cf-119f-47b5-bb1e-8912c697c85f": {
             "@type": "redstring:Instance",
@@ -801,6 +913,25 @@
               "redstring:visible": true
             },
             "redstring:prototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+          },
+          "3c9d8487-a335-4c52-b77f-be4dbf0a5141": {
+            "@type": "redstring:Instance",
+            "@id": "instance:3c9d8487-a335-4c52-b77f-be4dbf0a5141",
+            "rdf:type": {
+              "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:c3c49d53-e436-485e-8ca4-a9c6435a2e42"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 136.82475232075376,
+              "redstring:yCoordinate": -451.96233507035504,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "2327e747-8749-48e5-889a-37139b91e46a"
           }
         },
         "redstring:groups": {},
@@ -841,7 +972,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -885,7 +1016,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -926,7 +1057,44 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T18:36:45.515Z"
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "2327e747-8749-48e5-889a-37139b91e46a": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:2327e747-8749-48e5-889a-37139b91e46a",
+        "rdfs:label": "eea",
+        "rdfs:comment": "",
+        "name": "eea",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-06T18:36:51.515Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -986,22 +1154,28 @@
           "y": -650,
           "scale": 1.1,
           "prototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0"
+        },
+        "3c9d8487-a335-4c52-b77f-be4dbf0a5141": {
+          "x": 136.82475232075376,
+          "y": -451.96233507035504,
+          "scale": 1,
+          "prototypeId": "2327e747-8749-48e5-889a-37139b91e46a"
         }
       },
       "metadata": {
-        "nodeCount": 2,
+        "nodeCount": 3,
         "edgeCount": 1,
         "boundingBox": {
           "minX": 125,
           "minY": -650,
           "maxX": 841.0124416141989,
-          "maxY": -491.3623827343108
+          "maxY": -451.96233507035504
         },
         "centroid": {
-          "x": 483.00622080709945,
-          "y": -570.6811913671554
+          "x": 367.6123979783176,
+          "y": -531.108239268222
         },
-        "computedAt": 1759775805515,
+        "computedAt": 1759775811515,
         "truncated": false
       }
     }
@@ -1011,11 +1185,11 @@
       "id": "c3c49d53-e436-485e-8ca4-a9c6435a2e42",
       "name": "eee",
       "description": "",
-      "nodeCount": 2,
+      "nodeCount": 3,
       "edgeCount": 1,
-      "density": 0.5,
-      "quality": "dense",
-      "score": 44,
+      "density": 0.167,
+      "quality": "sparse",
+      "score": 19,
       "nodes": [
         {
           "id": "f71c57cf-119f-47b5-bb1e-8912c697c85f",
@@ -1026,6 +1200,11 @@
           "id": "dd014046-2c15-4619-ae31-5af36e337b00",
           "prototypeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
           "name": "eee"
+        },
+        {
+          "id": "3c9d8487-a335-4c52-b77f-be4dbf0a5141",
+          "prototypeId": "2327e747-8749-48e5-889a-37139b91e46a",
+          "name": "eea"
         }
       ],
       "edges": [
@@ -1038,8 +1217,8 @@
           "targetLabel": "ooo"
         }
       ],
-      "text": "Graph: eee (c3c49d53-e436-485e-8ca4-a9c6435a2e42)\nNodes (2 total):\n- ooo [f71c57cf-119f-47b5-bb1e-8912c697c85f]\n- eee [dd014046-2c15-4619-ae31-5af36e337b00]\n\nEdges (1 total):\n- ooo → ooo (base-connection-prototype)",
-      "computedAt": 1759775805515
+      "text": "Graph: eee (c3c49d53-e436-485e-8ca4-a9c6435a2e42)\nNodes (3 total):\n- ooo [f71c57cf-119f-47b5-bb1e-8912c697c85f]\n- eee [dd014046-2c15-4619-ae31-5af36e337b00]\n- eea [3c9d8487-a335-4c52-b77f-be4dbf0a5141]\n\nEdges (1 total):\n- ooo → ooo (base-connection-prototype)",
+      "computedAt": 1759775811515
     }
   }
 }
