@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-06T19:00:27.890Z",
-    "modified": "2025-10-06T19:00:27.890Z",
-    "title": "eee",
+    "created": "2025-10-06T19:00:30.889Z",
+    "modified": "2025-10-06T19:00:30.889Z",
+    "title": "eea",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -344,7 +344,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -359,14 +359,18 @@
         "rdfs:comment": "",
         "name": "eea",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/European_Economic_Area"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/European_Economic_Area"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -383,7 +387,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -482,7 +486,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       },
       "899f766f-5b1c-4dec-8ead-8689c55019c9": {
@@ -516,15 +520,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -28778.386193845567,
+          "y": -29596.07403294194
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.601152115596214,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
-          "redstring:expanded": false,
-          "redstring:activeInContext": false
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
         }
       }
     }
@@ -777,7 +781,7 @@
       "redstring:groups": {},
       "redstring:visualProperties": {
         "redstring:expanded": true,
-        "redstring:activeInContext": true
+        "redstring:activeInContext": false
       }
     },
     "899f766f-5b1c-4dec-8ead-8689c55019c9": {
@@ -811,15 +815,15 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": 0,
-        "y": 0
+        "x": -28778.386193845567,
+        "y": -29596.07403294194
       },
-      "redstring:zoomLevel": 1,
+      "redstring:zoomLevel": 0.601152115596214,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
-        "redstring:expanded": false,
-        "redstring:activeInContext": false
+        "redstring:expanded": true,
+        "redstring:activeInContext": true
       }
     }
   },
@@ -854,7 +858,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+        "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -898,7 +902,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+        "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -941,7 +945,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+        "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -956,14 +960,18 @@
       "rdfs:comment": "",
       "name": "eea",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/European_Economic_Area"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/European_Economic_Area"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -980,7 +988,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+        "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1154,19 +1162,21 @@
   "userInterface": {
     "@type": "redstring:UserInterfaceState",
     "redstring:openGraphIds": [
+      "b1389822-59a2-49c8-8ad6-0595cc37bb61",
       "899f766f-5b1c-4dec-8ead-8689c55019c9",
       "c3c49d53-e436-485e-8ca4-a9c6435a2e42"
     ],
-    "redstring:activeGraphId": "c3c49d53-e436-485e-8ca4-a9c6435a2e42",
-    "redstring:activeDefinitionNodeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
+    "redstring:activeGraphId": "b1389822-59a2-49c8-8ad6-0595cc37bb61",
+    "redstring:activeDefinitionNodeId": "2327e747-8749-48e5-889a-37139b91e46a",
     "redstring:expandedGraphIds": [
       "c3c49d53-e436-485e-8ca4-a9c6435a2e42",
-      "899f766f-5b1c-4dec-8ead-8689c55019c9"
+      "899f766f-5b1c-4dec-8ead-8689c55019c9",
+      "b1389822-59a2-49c8-8ad6-0595cc37bb61"
     ],
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": false
+        "isActive": true
       },
       {
         "type": "node",
@@ -1178,7 +1188,7 @@
         "type": "node",
         "nodeId": "366bb8b9-5f22-4d82-ae69-12dd982504d0",
         "title": "eee",
-        "isActive": true
+        "isActive": false
       }
     ],
     "redstring:savedNodeIds": [],
@@ -1274,7 +1284,7 @@
         "redstring:groups": {},
         "redstring:visualProperties": {
           "redstring:expanded": true,
-          "redstring:activeInContext": true
+          "redstring:activeInContext": false
         }
       },
       "899f766f-5b1c-4dec-8ead-8689c55019c9": {
@@ -1308,15 +1318,15 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": 0,
-          "y": 0
+          "x": -28778.386193845567,
+          "y": -29596.07403294194
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.601152115596214,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
-          "redstring:expanded": false,
-          "redstring:activeInContext": false
+          "redstring:expanded": true,
+          "redstring:activeInContext": true
         }
       }
     },
@@ -1351,7 +1361,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1395,7 +1405,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.889Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1438,7 +1448,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1453,14 +1463,18 @@
         "rdfs:comment": "",
         "name": "eea",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/European_Economic_Area"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/European_Economic_Area"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -1477,7 +1491,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-06T19:00:27.890Z"
+          "redstring:lastViewed": "2025-10-06T19:00:30.888Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1672,7 +1686,7 @@
           "x": 1169.7914173128302,
           "y": -362.87394245483057
         },
-        "computedAt": 1759777227890,
+        "computedAt": 1759777230889,
         "truncated": false
       }
     },
@@ -1683,7 +1697,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759777227890,
+        "computedAt": 1759777230889,
         "truncated": false
       }
     },
@@ -1694,7 +1708,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1759777227890,
+        "computedAt": 1759777230889,
         "truncated": false
       }
     }
@@ -1761,7 +1775,7 @@
         }
       ],
       "text": "Graph: eee (c3c49d53-e436-485e-8ca4-a9c6435a2e42)\nNodes (3 total):\n- ooo [f71c57cf-119f-47b5-bb1e-8912c697c85f]\n- eee [dd014046-2c15-4619-ae31-5af36e337b00]\n- eea [3c9d8487-a335-4c52-b77f-be4dbf0a5141]\n\nEdges (4 total):\n- ooo → ooo (base-connection-prototype)\n- eea → ooo (base-connection-prototype)\n- ooo → eee (base-connection-prototype)\n- eee → eea (base-connection-prototype)",
-      "computedAt": 1759777227890
+      "computedAt": 1759777230889
     },
     "899f766f-5b1c-4dec-8ead-8689c55019c9": {
       "id": "899f766f-5b1c-4dec-8ead-8689c55019c9",
@@ -1775,7 +1789,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: ooo (899f766f-5b1c-4dec-8ead-8689c55019c9)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759777227890
+      "computedAt": 1759777230889
     },
     "b1389822-59a2-49c8-8ad6-0595cc37bb61": {
       "id": "b1389822-59a2-49c8-8ad6-0595cc37bb61",
@@ -1789,7 +1803,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: eea (b1389822-59a2-49c8-8ad6-0595cc37bb61)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1759777227890
+      "computedAt": 1759777230889
     }
   }
 }
