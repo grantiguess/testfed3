@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:15:03.868Z",
-    "modified": "2025-10-07T16:15:03.868Z",
+    "created": "2025-10-07T16:15:13.609Z",
+    "modified": "2025-10-07T16:15:13.609Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -298,11 +298,10 @@
         "redstring:definitionGraphIds": [
           "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -350,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -372,10 +371,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -54726.24999541323,
-          "y": -55411.04969254241
+          "x": -26352.980261706107,
+          "y": -27087.90284279223
         },
-        "redstring:zoomLevel": 1.120941270801599,
+        "redstring:zoomLevel": 0.5519167529330137,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -423,10 +422,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -54726.24999541323,
-        "y": -55411.04969254241
+        "x": -26352.980261706107,
+        "y": -27087.90284279223
       },
-      "redstring:zoomLevel": 1.120941270801599,
+      "redstring:zoomLevel": 0.5519167529330137,
       "redstring:instances": {
         "5a735e51-56cc-4512-bee9-9403412fb13b": {
           "@type": "redstring:Instance",
@@ -486,7 +485,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+        "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -527,11 +526,10 @@
       "redstring:definitionGraphIds": [
         "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
       ],
-      "redstring:typeNodeId": null,
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+        "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -579,7 +577,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+        "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -635,10 +633,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -54726.24999541323,
-          "y": -55411.04969254241
+          "x": -26352.980261706107,
+          "y": -27087.90284279223
         },
-        "redstring:zoomLevel": 1.120941270801599,
+        "redstring:zoomLevel": 0.5519167529330137,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -698,7 +696,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -739,11 +737,10 @@
         "redstring:definitionGraphIds": [
           "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
         ],
-        "redstring:typeNodeId": null,
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -791,7 +788,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:03.868Z"
+          "redstring:lastViewed": "2025-10-07T16:15:13.609Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -821,7 +818,7 @@
           "x": -165.8286163769444,
           "y": -246.27598097107693
         },
-        "computedAt": 1759853703868,
+        "computedAt": 1759853713609,
         "truncated": false
       }
     }
@@ -845,7 +842,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (1 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n\nEdges (0 total):",
-      "computedAt": 1759853703868
+      "computedAt": 1759853713609
     }
   }
 }
