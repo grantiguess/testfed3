@@ -211,9 +211,9 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:15:25.610Z",
-    "modified": "2025-10-07T16:15:25.610Z",
-    "title": "New Thing",
+    "created": "2025-10-07T16:15:31.609Z",
+    "modified": "2025-10-07T16:15:31.609Z",
+    "title": "Hundred Acre Wood",
     "description": "",
     "domain": null,
     "userURIs": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -268,9 +268,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Hundred Acre Wood",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Hundred Acre Wood",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -364,14 +364,22 @@
         "rdfs:comment": "",
         "name": "Winnie the Pooh",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+          "http://dbpedia.org/resource/Winnie_the_Pooh",
+          "http://www.wikidata.org/entity/Q111953262"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+          "http://dbpedia.org/resource/Winnie_the_Pooh",
+          "http://www.wikidata.org/entity/Q111953262"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -386,7 +394,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -401,17 +409,17 @@
       "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Hundred Acre Wood",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -52355.27574594114,
-          "y": -52975.84084021178
+          "x": -49885.83918571291,
+          "y": -50400.076714330324
         },
-        "redstring:zoomLevel": 1.0704910286088258,
+        "redstring:zoomLevel": 1.0185704124119264,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -471,17 +479,17 @@
     "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
       "@type": "redstring:SpatialGraph",
       "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Hundred Acre Wood",
       "rdfs:comment": "",
       "redstring:definingNodeIds": [
         "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -52355.27574594114,
-        "y": -52975.84084021178
+        "x": -49885.83918571291,
+        "y": -50400.076714330324
       },
-      "redstring:zoomLevel": 1.0704910286088258,
+      "redstring:zoomLevel": 1.0185704124119264,
       "redstring:instances": {
         "5a735e51-56cc-4512-bee9-9403412fb13b": {
           "@type": "redstring:Instance",
@@ -560,7 +568,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+        "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -571,9 +579,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae",
-      "rdfs:label": "New Thing",
+      "rdfs:label": "Hundred Acre Wood",
       "rdfs:comment": "",
-      "name": "New Thing",
+      "name": "Hundred Acre Wood",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/New_Thing",
@@ -604,7 +612,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+        "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -652,7 +660,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+        "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -667,14 +675,22 @@
       "rdfs:comment": "",
       "name": "Winnie the Pooh",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+        "http://dbpedia.org/resource/Winnie_the_Pooh",
+        "http://www.wikidata.org/entity/Q111953262"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+        "http://dbpedia.org/resource/Winnie_the_Pooh",
+        "http://www.wikidata.org/entity/Q111953262"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -689,7 +705,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+        "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -726,6 +742,12 @@
         "type": "node",
         "nodeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
         "title": "Eeyore",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "62872cdb-86ac-46cf-ae20-a57bd651963e",
+        "title": "Winnie the Pooh",
         "isActive": true
       }
     ],
@@ -738,17 +760,17 @@
       "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
         "@type": "redstring:SpatialGraph",
         "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Hundred Acre Wood",
         "rdfs:comment": "",
         "redstring:definingNodeIds": [
           "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -52355.27574594114,
-          "y": -52975.84084021178
+          "x": -49885.83918571291,
+          "y": -50400.076714330324
         },
-        "redstring:zoomLevel": 1.0704910286088258,
+        "redstring:zoomLevel": 1.0185704124119264,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -827,7 +849,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -838,9 +860,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae",
-        "rdfs:label": "New Thing",
+        "rdfs:label": "Hundred Acre Wood",
         "rdfs:comment": "",
-        "name": "New Thing",
+        "name": "Hundred Acre Wood",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/New_Thing",
@@ -871,7 +893,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -919,7 +941,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -934,14 +956,22 @@
         "rdfs:comment": "",
         "name": "Winnie the Pooh",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+          "http://dbpedia.org/resource/Winnie_the_Pooh",
+          "http://www.wikidata.org/entity/Q111953262"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Winnie-the-Pooh",
+          "http://dbpedia.org/resource/Winnie_the_Pooh",
+          "http://www.wikidata.org/entity/Q111953262"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -956,7 +986,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:25.609Z"
+          "redstring:lastViewed": "2025-10-07T16:15:31.608Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -992,7 +1022,7 @@
           "x": 74.87744870961615,
           "y": -191.0395981739748
         },
-        "computedAt": 1759853725610,
+        "computedAt": 1759853731609,
         "truncated": false
       }
     }
@@ -1000,7 +1030,7 @@
   "graphSummaries": {
     "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
       "id": "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0",
-      "name": "New Thing",
+      "name": "Hundred Acre Wood",
       "description": "",
       "nodeCount": 2,
       "edgeCount": 0,
@@ -1020,8 +1050,8 @@
         }
       ],
       "edges": [],
-      "text": "Graph: New Thing (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (2 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n\nEdges (0 total):",
-      "computedAt": 1759853725610
+      "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (2 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n\nEdges (0 total):",
+      "computedAt": 1759853731609
     }
   }
 }
