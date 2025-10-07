@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:16:34.608Z",
-    "modified": "2025-10-07T16:16:34.608Z",
+    "created": "2025-10-07T16:16:37.609Z",
+    "modified": "2025-10-07T16:16:37.609Z",
     "title": "Hundred Acre Wood",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -443,7 +443,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -489,7 +489,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -651,38 +651,16 @@
         "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
         "destinationId": "3d25a691-0dd3-46d8-b61c-d78642456d11",
         "typeNodeId": "base-connection-prototype",
+        "definitionNodeIds": [
+          "09e266ce-80d9-4dff-aaa3-056253f671ba"
+        ],
         "directionality": {
           "arrowsToward": []
         },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-            }
-          }
-        ],
+        "rdfStatements": null,
         "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
         "destinationPrototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc",
-        "predicatePrototypeId": "base-connection-prototype"
+        "predicatePrototypeId": null
       }
     }
   },
@@ -802,7 +780,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -846,7 +824,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -894,7 +872,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -942,7 +920,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -988,7 +966,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -1034,7 +1012,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1099,38 +1077,16 @@
       "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
       "destinationId": "3d25a691-0dd3-46d8-b61c-d78642456d11",
       "typeNodeId": "base-connection-prototype",
+      "definitionNodeIds": [
+        "09e266ce-80d9-4dff-aaa3-056253f671ba"
+      ],
       "directionality": {
         "arrowsToward": []
       },
-      "rdfStatements": [
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-          }
-        },
-        {
-          "@type": "Statement",
-          "subject": {
-            "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-          },
-          "predicate": {
-            "@id": "node:base-connection-prototype"
-          },
-          "object": {
-            "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-          }
-        }
-      ],
+      "rdfStatements": null,
       "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
       "destinationPrototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc",
-      "predicatePrototypeId": "base-connection-prototype"
+      "predicatePrototypeId": null
     }
   },
   "globalSpatialContext": {
@@ -1306,7 +1262,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1350,7 +1306,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1398,7 +1354,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1446,7 +1402,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1492,7 +1448,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1538,7 +1494,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:16:34.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:37.609Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1603,38 +1559,16 @@
         "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
         "destinationId": "3d25a691-0dd3-46d8-b61c-d78642456d11",
         "typeNodeId": "base-connection-prototype",
+        "definitionNodeIds": [
+          "09e266ce-80d9-4dff-aaa3-056253f671ba"
+        ],
         "directionality": {
           "arrowsToward": []
         },
-        "rdfStatements": [
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-            }
-          },
-          {
-            "@type": "Statement",
-            "subject": {
-              "@id": "node:6bfa17bd-792d-43f1-a778-d02e748f84bc"
-            },
-            "predicate": {
-              "@id": "node:base-connection-prototype"
-            },
-            "object": {
-              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
-            }
-          }
-        ],
+        "rdfStatements": null,
         "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
         "destinationPrototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc",
-        "predicatePrototypeId": "base-connection-prototype"
+        "predicatePrototypeId": null
       }
     }
   },
@@ -1673,7 +1607,7 @@
           "x": 300.206816796502,
           "y": -23.88646914042086
         },
-        "computedAt": 1759853794608,
+        "computedAt": 1759853797609,
         "truncated": false
       }
     }
@@ -1732,7 +1666,7 @@
         }
       ],
       "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (3 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n- Piglet (Winnie the Pooh) [3d25a691-0dd3-46d8-b61c-d78642456d11]\n\nEdges (3 total):\n- Eeyore → Winnie the Pooh (base-connection-prototype)\n- Winnie the Pooh → Piglet (Winnie the Pooh) (base-connection-prototype)\n- Eeyore → Piglet (Winnie the Pooh) (base-connection-prototype)",
-      "computedAt": 1759853794608
+      "computedAt": 1759853797609
     }
   }
 }
