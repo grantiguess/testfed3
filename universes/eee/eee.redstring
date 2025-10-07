@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:15:34.610Z",
-    "modified": "2025-10-07T16:15:34.610Z",
+    "created": "2025-10-07T16:15:37.609Z",
+    "modified": "2025-10-07T16:15:37.609Z",
     "title": "Hundred Acre Wood",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -417,10 +417,12 @@
         "redstring:definingNodeIds": [
           "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
         ],
-        "redstring:edgeIds": [],
+        "redstring:edgeIds": [
+          "af112466-3d1d-4a38-9605-ab40caa0aa32"
+        ],
         "redstring:panOffset": {
-          "x": -47919.25103618422,
-          "y": -48375.46745548675
+          "x": -47933.65103618424,
+          "y": -48445.067455486744
         },
         "redstring:zoomLevel": 0.9779725695641148,
         "redstring:instances": {
@@ -476,7 +478,46 @@
     "@id": "space:relationships",
     "rdfs:label": "RedString Relationships",
     "rdfs:comment": "RDF statements representing connections between instances",
-    "edges": {}
+    "edges": {
+      "af112466-3d1d-4a38-9605-ab40caa0aa32": {
+        "id": "af112466-3d1d-4a38-9605-ab40caa0aa32",
+        "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
+        "destinationId": "3806384b-9426-41f1-a224-7a3242eef144",
+        "typeNodeId": "base-connection-prototype",
+        "directionality": {
+          "arrowsToward": []
+        },
+        "rdfStatements": [
+          {
+            "@type": "Statement",
+            "subject": {
+              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+            },
+            "predicate": {
+              "@id": "node:base-connection-prototype"
+            },
+            "object": {
+              "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+            }
+          },
+          {
+            "@type": "Statement",
+            "subject": {
+              "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+            },
+            "predicate": {
+              "@id": "node:base-connection-prototype"
+            },
+            "object": {
+              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+            }
+          }
+        ],
+        "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
+        "destinationPrototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e",
+        "predicatePrototypeId": "base-connection-prototype"
+      }
+    }
   },
   "graphs": {
     "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
@@ -487,10 +528,12 @@
       "redstring:definingNodeIds": [
         "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
       ],
-      "redstring:edgeIds": [],
+      "redstring:edgeIds": [
+        "af112466-3d1d-4a38-9605-ab40caa0aa32"
+      ],
       "redstring:panOffset": {
-        "x": -47919.25103618422,
-        "y": -48375.46745548675
+        "x": -47933.65103618424,
+        "y": -48445.067455486744
       },
       "redstring:zoomLevel": 0.9779725695641148,
       "redstring:instances": {
@@ -571,7 +614,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+        "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -615,7 +658,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+        "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -663,7 +706,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+        "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -711,12 +754,51 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+        "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
       },
       "redstring:abstractionChains": {}
     }
   },
-  "edges": {},
+  "edges": {
+    "af112466-3d1d-4a38-9605-ab40caa0aa32": {
+      "id": "af112466-3d1d-4a38-9605-ab40caa0aa32",
+      "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
+      "destinationId": "3806384b-9426-41f1-a224-7a3242eef144",
+      "typeNodeId": "base-connection-prototype",
+      "directionality": {
+        "arrowsToward": []
+      },
+      "rdfStatements": [
+        {
+          "@type": "Statement",
+          "subject": {
+            "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+          },
+          "predicate": {
+            "@id": "node:base-connection-prototype"
+          },
+          "object": {
+            "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+          }
+        },
+        {
+          "@type": "Statement",
+          "subject": {
+            "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+          },
+          "predicate": {
+            "@id": "node:base-connection-prototype"
+          },
+          "object": {
+            "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+          }
+        }
+      ],
+      "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
+      "destinationPrototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e",
+      "predicatePrototypeId": "base-connection-prototype"
+    }
+  },
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
     "redstring:viewport": {
@@ -771,10 +853,12 @@
         "redstring:definingNodeIds": [
           "ea075ffe-16d3-40e4-a4fd-1cdbceeab7ae"
         ],
-        "redstring:edgeIds": [],
+        "redstring:edgeIds": [
+          "af112466-3d1d-4a38-9605-ab40caa0aa32"
+        ],
         "redstring:panOffset": {
-          "x": -47919.25103618422,
-          "y": -48375.46745548675
+          "x": -47933.65103618424,
+          "y": -48445.067455486744
         },
         "redstring:zoomLevel": 0.9779725695641148,
         "redstring:instances": {
@@ -855,7 +939,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -899,7 +983,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -947,7 +1031,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -995,12 +1079,51 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:34.610Z"
+          "redstring:lastViewed": "2025-10-07T16:15:37.609Z"
         },
         "redstring:abstractionChains": {}
       }
     },
-    "edges": {}
+    "edges": {
+      "af112466-3d1d-4a38-9605-ab40caa0aa32": {
+        "id": "af112466-3d1d-4a38-9605-ab40caa0aa32",
+        "sourceId": "5a735e51-56cc-4512-bee9-9403412fb13b",
+        "destinationId": "3806384b-9426-41f1-a224-7a3242eef144",
+        "typeNodeId": "base-connection-prototype",
+        "directionality": {
+          "arrowsToward": []
+        },
+        "rdfStatements": [
+          {
+            "@type": "Statement",
+            "subject": {
+              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+            },
+            "predicate": {
+              "@id": "node:base-connection-prototype"
+            },
+            "object": {
+              "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+            }
+          },
+          {
+            "@type": "Statement",
+            "subject": {
+              "@id": "node:62872cdb-86ac-46cf-ae20-a57bd651963e"
+            },
+            "predicate": {
+              "@id": "node:base-connection-prototype"
+            },
+            "object": {
+              "@id": "node:703f9341-27da-44a3-a191-d5d1986ca0b5"
+            }
+          }
+        ],
+        "sourcePrototypeId": "703f9341-27da-44a3-a191-d5d1986ca0b5",
+        "destinationPrototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e",
+        "predicatePrototypeId": "base-connection-prototype"
+      }
+    }
   },
   "graphLayouts": {
     "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0": {
@@ -1020,7 +1143,7 @@
       },
       "metadata": {
         "nodeCount": 2,
-        "edgeCount": 0,
+        "edgeCount": 1,
         "boundingBox": {
           "minX": -165.8286163769444,
           "minY": -246.27598097107693,
@@ -1031,7 +1154,7 @@
           "x": 282.96099454025534,
           "y": -245.2333472109458
         },
-        "computedAt": 1759853734610,
+        "computedAt": 1759853737609,
         "truncated": false
       }
     }
@@ -1042,10 +1165,10 @@
       "name": "Hundred Acre Wood",
       "description": "",
       "nodeCount": 2,
-      "edgeCount": 0,
-      "density": 0,
-      "quality": "disconnected",
-      "score": 5,
+      "edgeCount": 1,
+      "density": 0.5,
+      "quality": "dense",
+      "score": 44,
       "nodes": [
         {
           "id": "5a735e51-56cc-4512-bee9-9403412fb13b",
@@ -1058,9 +1181,18 @@
           "name": "Winnie the Pooh"
         }
       ],
-      "edges": [],
-      "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (2 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n\nEdges (0 total):",
-      "computedAt": 1759853734610
+      "edges": [
+        {
+          "id": "af112466-3d1d-4a38-9605-ab40caa0aa32",
+          "from": "5a735e51-56cc-4512-bee9-9403412fb13b",
+          "to": "3806384b-9426-41f1-a224-7a3242eef144",
+          "type": "base-connection-prototype",
+          "sourceLabel": "Eeyore",
+          "targetLabel": "Winnie the Pooh"
+        }
+      ],
+      "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (2 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n\nEdges (1 total):\n- Eeyore → Winnie the Pooh (base-connection-prototype)",
+      "computedAt": 1759853737609
     }
   }
 }
