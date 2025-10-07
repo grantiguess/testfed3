@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:15:43.609Z",
-    "modified": "2025-10-07T16:15:43.609Z",
+    "created": "2025-10-07T16:16:28.608Z",
+    "modified": "2025-10-07T16:16:28.608Z",
     "title": "Hundred Acre Wood",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -443,7 +443,50 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "6bfa17bd-792d-43f1-a778-d02e748f84bc": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc",
+        "rdfs:label": "Piglet (Winnie the Pooh)",
+        "rdfs:comment": "",
+        "name": "Piglet (Winnie the Pooh)",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+          "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+          "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -467,10 +510,10 @@
           "af112466-3d1d-4a38-9605-ab40caa0aa32"
         ],
         "redstring:panOffset": {
-          "x": -47933.65103618424,
-          "y": -48445.067455486744
+          "x": -21261.82637417944,
+          "y": -21918.58010262155
         },
-        "redstring:zoomLevel": 0.9779725695641148,
+        "redstring:zoomLevel": 0.4496575609256564,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -509,6 +552,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e"
+          },
+          "3d25a691-0dd3-46d8-b61c-d78642456d11": {
+            "@type": "redstring:Instance",
+            "@id": "instance:3d25a691-0dd3-46d8-b61c-d78642456d11",
+            "rdf:type": {
+              "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 254.63753688932775,
+              "redstring:yCoordinate": 396.5681413284983,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc"
           }
         },
         "redstring:groups": {},
@@ -556,10 +618,10 @@
         "af112466-3d1d-4a38-9605-ab40caa0aa32"
       ],
       "redstring:panOffset": {
-        "x": -47933.65103618424,
-        "y": -48445.067455486744
+        "x": -21261.82637417944,
+        "y": -21918.58010262155
       },
-      "redstring:zoomLevel": 0.9779725695641148,
+      "redstring:zoomLevel": 0.4496575609256564,
       "redstring:instances": {
         "5a735e51-56cc-4512-bee9-9403412fb13b": {
           "@type": "redstring:Instance",
@@ -598,6 +660,25 @@
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e"
+        },
+        "3d25a691-0dd3-46d8-b61c-d78642456d11": {
+          "@type": "redstring:Instance",
+          "@id": "instance:3d25a691-0dd3-46d8-b61c-d78642456d11",
+          "rdf:type": {
+            "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": 254.63753688932775,
+            "redstring:yCoordinate": 396.5681413284983,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc"
         }
       },
       "redstring:groups": {},
@@ -638,7 +719,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -682,7 +763,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -730,7 +811,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -778,7 +859,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -824,7 +905,50 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "6bfa17bd-792d-43f1-a778-d02e748f84bc": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc",
+      "rdfs:label": "Piglet (Winnie the Pooh)",
+      "rdfs:comment": "",
+      "name": "Piglet (Winnie the Pooh)",
+      "description": "",
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+        "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+      ],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+        "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+      ],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -890,12 +1014,18 @@
         "type": "node",
         "nodeId": "09e266ce-80d9-4dff-aaa3-056253f671ba",
         "title": "Friendship",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc",
+        "title": "Piglet (Winnie the Pooh)",
         "isActive": true
       }
     ],
     "redstring:savedNodeIds": [],
     "redstring:savedGraphIds": [],
-    "redstring:showConnectionNames": false
+    "redstring:showConnectionNames": true
   },
   "legacy": {
     "graphs": {
@@ -911,10 +1041,10 @@
           "af112466-3d1d-4a38-9605-ab40caa0aa32"
         ],
         "redstring:panOffset": {
-          "x": -47933.65103618424,
-          "y": -48445.067455486744
+          "x": -21261.82637417944,
+          "y": -21918.58010262155
         },
-        "redstring:zoomLevel": 0.9779725695641148,
+        "redstring:zoomLevel": 0.4496575609256564,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -953,6 +1083,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e"
+          },
+          "3d25a691-0dd3-46d8-b61c-d78642456d11": {
+            "@type": "redstring:Instance",
+            "@id": "instance:3d25a691-0dd3-46d8-b61c-d78642456d11",
+            "rdf:type": {
+              "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:30e63fe5-6ef6-46fb-8ff2-ea91943f59d0"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 254.63753688932775,
+              "redstring:yCoordinate": 396.5681413284983,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc"
           }
         },
         "redstring:groups": {},
@@ -993,7 +1142,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1037,7 +1186,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1085,7 +1234,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1133,7 +1282,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1179,7 +1328,50 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:15:43.608Z"
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "6bfa17bd-792d-43f1-a778-d02e748f84bc": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:6bfa17bd-792d-43f1-a778-d02e748f84bc",
+        "rdfs:label": "Piglet (Winnie the Pooh)",
+        "rdfs:comment": "",
+        "name": "Piglet (Winnie the Pooh)",
+        "description": "",
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+          "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+        ],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Piglet_(Winnie-the-Pooh)",
+          "http://dbpedia.org/resource/Piglet_(Winnie_the_Pooh)"
+        ],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-07T16:16:28.608Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1217,22 +1409,28 @@
           "y": -244.19071345081466,
           "scale": 1,
           "prototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e"
+        },
+        "3d25a691-0dd3-46d8-b61c-d78642456d11": {
+          "x": 254.63753688932775,
+          "y": 396.5681413284983,
+          "scale": 1,
+          "prototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc"
         }
       },
       "metadata": {
-        "nodeCount": 2,
+        "nodeCount": 3,
         "edgeCount": 1,
         "boundingBox": {
           "minX": -165.8286163769444,
           "minY": -246.27598097107693,
           "maxX": 731.7506054574551,
-          "maxY": -244.19071345081466
+          "maxY": 396.5681413284983
         },
         "centroid": {
-          "x": 282.96099454025534,
-          "y": -245.2333472109458
+          "x": 273.51984198994614,
+          "y": -31.299517697797757
         },
-        "computedAt": 1759853743608,
+        "computedAt": 1759853788608,
         "truncated": false
       }
     }
@@ -1242,11 +1440,11 @@
       "id": "30e63fe5-6ef6-46fb-8ff2-ea91943f59d0",
       "name": "Hundred Acre Wood",
       "description": "",
-      "nodeCount": 2,
+      "nodeCount": 3,
       "edgeCount": 1,
-      "density": 0.5,
-      "quality": "dense",
-      "score": 44,
+      "density": 0.167,
+      "quality": "sparse",
+      "score": 19,
       "nodes": [
         {
           "id": "5a735e51-56cc-4512-bee9-9403412fb13b",
@@ -1257,6 +1455,11 @@
           "id": "3806384b-9426-41f1-a224-7a3242eef144",
           "prototypeId": "62872cdb-86ac-46cf-ae20-a57bd651963e",
           "name": "Winnie the Pooh"
+        },
+        {
+          "id": "3d25a691-0dd3-46d8-b61c-d78642456d11",
+          "prototypeId": "6bfa17bd-792d-43f1-a778-d02e748f84bc",
+          "name": "Piglet (Winnie the Pooh)"
         }
       ],
       "edges": [
@@ -1269,8 +1472,8 @@
           "targetLabel": "Winnie the Pooh"
         }
       ],
-      "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (2 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n\nEdges (1 total):\n- Eeyore → Winnie the Pooh (base-connection-prototype)",
-      "computedAt": 1759853743609
+      "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (3 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n- Piglet (Winnie the Pooh) [3d25a691-0dd3-46d8-b61c-d78642456d11]\n\nEdges (1 total):\n- Eeyore → Winnie the Pooh (base-connection-prototype)",
+      "computedAt": 1759853788608
     }
   }
 }
