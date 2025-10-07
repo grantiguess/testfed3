@@ -211,8 +211,8 @@
   "@type": "redstring:CognitiveSpace",
   "format": "redstring-v2.0.0-semantic",
   "metadata": {
-    "created": "2025-10-07T16:17:14.339Z",
-    "modified": "2025-10-07T16:17:14.339Z",
+    "created": "2025-10-07T18:57:35.045Z",
+    "modified": "2025-10-07T18:57:35.045Z",
     "title": "Hundred Acre Wood",
     "description": "",
     "domain": null,
@@ -257,7 +257,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -301,7 +301,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -397,7 +397,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -442,7 +442,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -488,7 +488,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -514,10 +514,10 @@
           "8ca0dbf1-b4f4-4ec7-a259-ff926b7750b7"
         ],
         "redstring:panOffset": {
-          "x": -24962.25976473603,
-          "y": -25639.249079875095
+          "x": -31438.036867524675,
+          "y": -32094.245471761187
         },
-        "redstring:zoomLevel": 0.5204117185495004,
+        "redstring:zoomLevel": 0.6493341134943199,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -653,10 +653,10 @@
         "8ca0dbf1-b4f4-4ec7-a259-ff926b7750b7"
       ],
       "redstring:panOffset": {
-        "x": -24962.25976473603,
-        "y": -25639.249079875095
+        "x": -31438.036867524675,
+        "y": -32094.245471761187
       },
-      "redstring:zoomLevel": 0.5204117185495004,
+      "redstring:zoomLevel": 0.6493341134943199,
       "redstring:instances": {
         "5a735e51-56cc-4512-bee9-9403412fb13b": {
           "@type": "redstring:Instance",
@@ -754,7 +754,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -798,7 +798,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -846,7 +846,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -894,7 +894,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -939,7 +939,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -985,7 +985,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+        "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -1109,10 +1109,10 @@
           "8ca0dbf1-b4f4-4ec7-a259-ff926b7750b7"
         ],
         "redstring:panOffset": {
-          "x": -24962.25976473603,
-          "y": -25639.249079875095
+          "x": -31438.036867524675,
+          "y": -32094.245471761187
         },
-        "redstring:zoomLevel": 0.5204117185495004,
+        "redstring:zoomLevel": 0.6493341134943199,
         "redstring:instances": {
           "5a735e51-56cc-4512-bee9-9403412fb13b": {
             "@type": "redstring:Instance",
@@ -1210,7 +1210,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1254,7 +1254,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1302,7 +1302,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1350,7 +1350,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1395,7 +1395,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1441,7 +1441,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-07T16:17:14.339Z"
+          "redstring:lastViewed": "2025-10-07T18:57:35.045Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1529,7 +1529,7 @@
           "x": 276.1978361603639,
           "y": -27.17996577873176
         },
-        "computedAt": 1759853834339,
+        "computedAt": 1759863455045,
         "truncated": false
       }
     }
@@ -1588,7 +1588,7 @@
         }
       ],
       "text": "Graph: Hundred Acre Wood (30e63fe5-6ef6-46fb-8ff2-ea91943f59d0)\nNodes (3 total):\n- Eeyore [5a735e51-56cc-4512-bee9-9403412fb13b]\n- Winnie the Pooh [3806384b-9426-41f1-a224-7a3242eef144]\n- Piglet (Winnie the Pooh) [3d25a691-0dd3-46d8-b61c-d78642456d11]\n\nEdges (3 total):\n- Eeyore → Winnie the Pooh (base-connection-prototype)\n- Winnie the Pooh → Piglet (Winnie the Pooh) (base-connection-prototype)\n- Eeyore → Piglet (Winnie the Pooh) (base-connection-prototype)",
-      "computedAt": 1759853834339
+      "computedAt": 1759863455045
     }
   }
 }
