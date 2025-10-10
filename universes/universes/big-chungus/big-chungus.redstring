@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T00:58:50.370Z",
-    "modified": "2025-10-10T00:58:50.370Z",
+    "created": "2025-10-10T01:00:41.123Z",
+    "modified": "2025-10-10T01:00:41.123Z",
     "title": "Easter + 1 Day",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+          "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -306,7 +306,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+          "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -328,10 +328,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -15623.632690315895,
-          "y": -15793.3431086423
+          "x": -2118.410170819764,
+          "y": -2172.0809483893668
         },
-        "redstring:zoomLevel": 0.32239541839812913,
+        "redstring:zoomLevel": 0.05,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -359,10 +359,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -15623.632690315895,
-        "y": -15793.3431086423
+        "x": -2118.410170819764,
+        "y": -2172.0809483893668
       },
-      "redstring:zoomLevel": 0.32239541839812913,
+      "redstring:zoomLevel": 0.05,
       "redstring:instances": {},
       "redstring:groups": {},
       "redstring:visualProperties": {
@@ -402,7 +402,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+        "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -441,7 +441,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+        "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -473,24 +473,6 @@
       {
         "type": "home",
         "isActive": true
-      },
-      {
-        "type": "node",
-        "nodeId": "8a577d4b-a97a-4f30-82c8-05773c0ea400",
-        "title": "ea",
-        "isActive": false
-      },
-      {
-        "type": "node",
-        "nodeId": "0177dddc-4770-4e89-9395-e778a17489bd",
-        "title": "EASTER",
-        "isActive": false
-      },
-      {
-        "type": "node",
-        "nodeId": "semantic-node-1760057466995-jrdxx9l65",
-        "title": "Easter + 1 Day",
-        "isActive": false
       }
     ],
     "redstring:savedNodeIds": [
@@ -511,10 +493,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -15623.632690315895,
-          "y": -15793.3431086423
+          "x": -2118.410170819764,
+          "y": -2172.0809483893668
         },
-        "redstring:zoomLevel": 0.32239541839812913,
+        "redstring:zoomLevel": 0.05,
         "redstring:instances": {},
         "redstring:groups": {},
         "redstring:visualProperties": {
@@ -554,7 +536,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+          "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -593,7 +575,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T00:58:50.370Z"
+          "redstring:lastViewed": "2025-10-10T01:00:41.122Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -608,7 +590,7 @@
         "edgeCount": 0,
         "boundingBox": null,
         "centroid": null,
-        "computedAt": 1760057930370,
+        "computedAt": 1760058041123,
         "truncated": false
       }
     }
@@ -626,7 +608,7 @@
       "nodes": [],
       "edges": [],
       "text": "Graph: Easter + 1 Day (66dada1d-fddd-46d0-9861-c1f489226cbe)\nNodes (0 total):\n\nEdges (0 total):",
-      "computedAt": 1760057930370
+      "computedAt": 1760058041123
     }
   }
 }
