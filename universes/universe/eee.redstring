@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T01:12:08.866Z",
-    "modified": "2025-10-10T01:12:08.866Z",
+    "created": "2025-10-10T01:12:11.866Z",
+    "modified": "2025-10-10T01:12:11.866Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -353,7 +353,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -364,9 +364,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
-        "rdfs:label": "dfa",
+        "rdfs:label": "Big Chungus",
         "rdfs:comment": "",
-        "name": "dfa",
+        "name": "Big Chungus",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/DFA",
@@ -396,7 +396,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -613,7 +613,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -658,7 +658,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -699,7 +699,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -710,9 +710,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
-      "rdfs:label": "dfa",
+      "rdfs:label": "Big Chungus",
       "rdfs:comment": "",
-      "name": "dfa",
+      "name": "Big Chungus",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/DFA",
@@ -742,7 +742,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -823,7 +823,7 @@
       {
         "type": "node",
         "nodeId": "31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
-        "title": "dfa",
+        "title": "Big Chungus",
         "isActive": true
       }
     ],
@@ -927,7 +927,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -972,7 +972,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1013,7 +1013,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1024,9 +1024,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
-        "rdfs:label": "dfa",
+        "rdfs:label": "Big Chungus",
         "rdfs:comment": "",
-        "name": "dfa",
+        "name": "Big Chungus",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/DFA",
@@ -1056,7 +1056,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:11.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1131,7 +1131,7 @@
           "x": 131.02962821699475,
           "y": -95.70855580296484
         },
-        "computedAt": 1760058728866,
+        "computedAt": 1760058731866,
         "truncated": false
       }
     }
@@ -1155,7 +1155,7 @@
         {
           "id": "8d3c7766-a809-400c-a385-ea75dbc08601",
           "prototypeId": "31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
-          "name": "dfa"
+          "name": "Big Chungus"
         }
       ],
       "edges": [
@@ -1164,12 +1164,12 @@
           "from": "8d3c7766-a809-400c-a385-ea75dbc08601",
           "to": "1dbf63ba-f179-45d5-bf05-3b9ded479897",
           "type": "base-connection-prototype",
-          "sourceLabel": "dfa",
+          "sourceLabel": "Big Chungus",
           "targetLabel": "The Gap"
         }
       ],
-      "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (2 total):\n- The Gap [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n- dfa [8d3c7766-a809-400c-a385-ea75dbc08601]\n\nEdges (1 total):\n- dfa → The Gap (base-connection-prototype)",
-      "computedAt": 1760058728866
+      "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (2 total):\n- The Gap [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n- Big Chungus [8d3c7766-a809-400c-a385-ea75dbc08601]\n\nEdges (1 total):\n- Big Chungus → The Gap (base-connection-prototype)",
+      "computedAt": 1760058731866
     }
   }
 }
