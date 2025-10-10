@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T02:07:29.685Z",
-    "modified": "2025-10-10T02:07:29.685Z",
+    "created": "2025-10-10T02:07:32.687Z",
+    "modified": "2025-10-10T02:07:32.687Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -304,7 +304,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -319,14 +319,20 @@
         "rdfs:comment": "",
         "name": "Cannabis (drug)",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+          "http://dbpedia.org/resource/Cannabis_(drug)"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+          "http://dbpedia.org/resource/Cannabis_(drug)"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -341,7 +347,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -386,7 +392,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -408,10 +414,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49419.5,
-          "y": -49586.5
+          "x": -16978.783482742438,
+          "y": -17143.831828835475
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.34944869767764813,
         "redstring:instances": {
           "ad9903af-5dd5-4103-a8b4-2a717ff2ecac": {
             "@type": "redstring:Instance",
@@ -459,10 +465,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -49419.5,
-        "y": -49586.5
+        "x": -16978.783482742438,
+        "y": -17143.831828835475
       },
-      "redstring:zoomLevel": 1,
+      "redstring:zoomLevel": 0.34944869767764813,
       "redstring:instances": {
         "ad9903af-5dd5-4103-a8b4-2a717ff2ecac": {
           "@type": "redstring:Instance",
@@ -522,7 +528,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+        "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -559,7 +565,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+        "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -574,14 +580,20 @@
       "rdfs:comment": "",
       "name": "Cannabis (drug)",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+        "http://dbpedia.org/resource/Cannabis_(drug)"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+        "http://dbpedia.org/resource/Cannabis_(drug)"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -596,7 +608,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+        "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -641,7 +653,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+        "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -672,13 +684,19 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
-        "isActive": true
+        "isActive": false
       },
       {
         "type": "node",
         "nodeId": "3d4d21f7-fbf2-41c9-9405-20832e1f4afc",
         "title": "TEST REPO",
         "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "semantic-node-1760062047429-4no06oe8y",
+        "title": "Cannabis (drug)",
+        "isActive": true
       }
     ],
     "redstring:savedNodeIds": [
@@ -700,10 +718,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49419.5,
-          "y": -49586.5
+          "x": -16978.783482742438,
+          "y": -17143.831828835475
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.34944869767764813,
         "redstring:instances": {
           "ad9903af-5dd5-4103-a8b4-2a717ff2ecac": {
             "@type": "redstring:Instance",
@@ -763,7 +781,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -800,7 +818,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -815,14 +833,20 @@
         "rdfs:comment": "",
         "name": "Cannabis (drug)",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+          "http://dbpedia.org/resource/Cannabis_(drug)"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/Cannabis_(drug)",
+          "http://dbpedia.org/resource/Cannabis_(drug)"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -837,7 +861,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -882,7 +906,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T02:07:29.685Z"
+          "redstring:lastViewed": "2025-10-10T02:07:32.686Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -912,7 +936,7 @@
           "x": -68,
           "y": -236.5
         },
-        "computedAt": 1760062049685,
+        "computedAt": 1760062052686,
         "truncated": false
       }
     }
@@ -936,7 +960,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (160b209a-0f89-424c-848f-806deb9a3285)\nNodes (1 total):\n- Cannabis (drug) [ad9903af-5dd5-4103-a8b4-2a717ff2ecac]\n\nEdges (0 total):",
-      "computedAt": 1760062049685
+      "computedAt": 1760062052687
     }
   }
 }
