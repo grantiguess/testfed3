@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T00:46:56.383Z",
-    "modified": "2025-10-10T00:46:56.383Z",
+    "created": "2025-10-10T00:46:59.381Z",
+    "modified": "2025-10-10T00:46:59.381Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -323,9 +323,9 @@
         ],
         "@id": "prototype:8a577d4b-a97a-4f30-82c8-05773c0ea400",
         "rdfs:label": "ea",
-        "rdfs:comment": "",
+        "rdfs:comment": "EA is an initialism for Electronic Arts, an American video game company.",
         "name": "ea",
-        "description": "",
+        "description": "EA is an initialism for Electronic Arts, an American video game company.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/EA_(disambiguation)",
           "http://www.wikidata.org/entity/Q123402115"
@@ -354,7 +354,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -490,7 +490,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+        "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -534,7 +534,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+        "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -546,9 +546,9 @@
       ],
       "@id": "prototype:8a577d4b-a97a-4f30-82c8-05773c0ea400",
       "rdfs:label": "ea",
-      "rdfs:comment": "",
+      "rdfs:comment": "EA is an initialism for Electronic Arts, an American video game company.",
       "name": "ea",
-      "description": "",
+      "description": "EA is an initialism for Electronic Arts, an American video game company.",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/EA_(disambiguation)",
         "http://www.wikidata.org/entity/Q123402115"
@@ -577,7 +577,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+        "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -696,7 +696,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -740,7 +740,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -752,9 +752,9 @@
         ],
         "@id": "prototype:8a577d4b-a97a-4f30-82c8-05773c0ea400",
         "rdfs:label": "ea",
-        "rdfs:comment": "",
+        "rdfs:comment": "EA is an initialism for Electronic Arts, an American video game company.",
         "name": "ea",
-        "description": "",
+        "description": "EA is an initialism for Electronic Arts, an American video game company.",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/EA_(disambiguation)",
           "http://www.wikidata.org/entity/Q123402115"
@@ -783,7 +783,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:46:56.382Z"
+          "redstring:lastViewed": "2025-10-10T00:46:59.380Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -813,7 +813,7 @@
           "x": 150.2301794005325,
           "y": -733.1782388469292
         },
-        "computedAt": 1760057216383,
+        "computedAt": 1760057219381,
         "truncated": false
       }
     }
@@ -837,7 +837,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ba215b2e-570f-4a0d-a73e-e0e5c6a660a1)\nNodes (1 total):\n- ea [5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02]\n\nEdges (0 total):",
-      "computedAt": 1760057216383
+      "computedAt": 1760057219381
     }
   }
 }
