@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T01:10:02.867Z",
-    "modified": "2025-10-10T01:10:02.867Z",
+    "created": "2025-10-10T01:10:11.867Z",
+    "modified": "2025-10-10T01:10:11.867Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -327,14 +327,18 @@
         "rdfs:comment": "",
         "name": "kio",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -349,7 +353,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -371,10 +375,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49384.70000000001,
-          "y": -49616.499999999985
+          "x": -36339.694363636365,
+          "y": -36654.16364418194
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.7399999999999998,
         "redstring:instances": {
           "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
             "@type": "redstring:Instance",
@@ -422,10 +426,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -49384.70000000001,
-        "y": -49616.499999999985
+        "x": -36339.694363636365,
+        "y": -36654.16364418194
       },
-      "redstring:zoomLevel": 1,
+      "redstring:zoomLevel": 0.7399999999999998,
       "redstring:instances": {
         "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
           "@type": "redstring:Instance",
@@ -485,7 +489,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+        "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -530,7 +534,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+        "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -545,14 +549,18 @@
       "rdfs:comment": "",
       "name": "kio",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -567,7 +575,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+        "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -598,6 +606,12 @@
     "redstring:rightPanelTabs": [
       {
         "type": "home",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "519e6e78-9543-4363-b50e-9614c31d72a8",
+        "title": "kio",
         "isActive": true
       }
     ],
@@ -617,10 +631,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -49384.70000000001,
-          "y": -49616.499999999985
+          "x": -36339.694363636365,
+          "y": -36654.16364418194
         },
-        "redstring:zoomLevel": 1,
+        "redstring:zoomLevel": 0.7399999999999998,
         "redstring:instances": {
           "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
             "@type": "redstring:Instance",
@@ -680,7 +694,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -725,7 +739,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -740,14 +754,18 @@
         "rdfs:comment": "",
         "name": "kio",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -762,7 +780,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:02.866Z"
+          "redstring:lastViewed": "2025-10-10T01:10:11.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -792,7 +810,7 @@
           "x": -119.29999999998836,
           "y": -107.50000000001455
         },
-        "computedAt": 1760058602866,
+        "computedAt": 1760058611867,
         "truncated": false
       }
     }
@@ -816,7 +834,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (1 total):\n- kio [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n\nEdges (0 total):",
-      "computedAt": 1760058602867
+      "computedAt": 1760058611867
     }
   }
 }
