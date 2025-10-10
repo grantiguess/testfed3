@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T01:12:05.867Z",
-    "modified": "2025-10-10T01:12:05.867Z",
+    "created": "2025-10-10T01:12:08.866Z",
+    "modified": "2025-10-10T01:12:08.866Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -353,7 +353,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -368,14 +368,20 @@
         "rdfs:comment": "",
         "name": "dfa",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/DFA",
+          "http://www.wikidata.org/entity/Q29724400"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/DFA",
+          "http://www.wikidata.org/entity/Q29724400"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -390,7 +396,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -414,7 +420,7 @@
           "919097d5-c709-452a-9621-fdc7e047d136"
         ],
         "redstring:panOffset": {
-          "x": -38522.996632077695,
+          "x": -38521.7966320777,
           "y": -38815.78267842525
         },
         "redstring:zoomLevel": 0.7840785740676985,
@@ -525,7 +531,7 @@
         "919097d5-c709-452a-9621-fdc7e047d136"
       ],
       "redstring:panOffset": {
-        "x": -38522.996632077695,
+        "x": -38521.7966320777,
         "y": -38815.78267842525
       },
       "redstring:zoomLevel": 0.7840785740676985,
@@ -607,7 +613,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -652,7 +658,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -693,7 +699,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -708,14 +714,20 @@
       "rdfs:comment": "",
       "name": "dfa",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "https://en.wikipedia.org/wiki/DFA",
+        "http://www.wikidata.org/entity/Q29724400"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "https://en.wikipedia.org/wiki/DFA",
+        "http://www.wikidata.org/entity/Q29724400"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -730,7 +742,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+        "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -806,6 +818,12 @@
         "type": "node",
         "nodeId": "519e6e78-9543-4363-b50e-9614c31d72a8",
         "title": "The Gap",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "31a23a8b-0d22-4e57-a7d8-0727f40ae0c9",
+        "title": "dfa",
         "isActive": true
       }
     ],
@@ -827,7 +845,7 @@
           "919097d5-c709-452a-9621-fdc7e047d136"
         ],
         "redstring:panOffset": {
-          "x": -38522.996632077695,
+          "x": -38521.7966320777,
           "y": -38815.78267842525
         },
         "redstring:zoomLevel": 0.7840785740676985,
@@ -909,7 +927,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -954,7 +972,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -995,7 +1013,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1010,14 +1028,20 @@
         "rdfs:comment": "",
         "name": "dfa",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "https://en.wikipedia.org/wiki/DFA",
+          "http://www.wikidata.org/entity/Q29724400"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "https://en.wikipedia.org/wiki/DFA",
+          "http://www.wikidata.org/entity/Q29724400"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -1032,7 +1056,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
+          "redstring:lastViewed": "2025-10-10T01:12:08.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1107,7 +1131,7 @@
           "x": 131.02962821699475,
           "y": -95.70855580296484
         },
-        "computedAt": 1760058725867,
+        "computedAt": 1760058728866,
         "truncated": false
       }
     }
@@ -1145,7 +1169,7 @@
         }
       ],
       "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (2 total):\n- The Gap [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n- dfa [8d3c7766-a809-400c-a385-ea75dbc08601]\n\nEdges (1 total):\n- dfa → The Gap (base-connection-prototype)",
-      "computedAt": 1760058725867
+      "computedAt": 1760058728866
     }
   }
 }
