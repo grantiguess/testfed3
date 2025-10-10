@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T01:10:26.871Z",
-    "modified": "2025-10-10T01:10:26.871Z",
+    "created": "2025-10-10T01:12:05.867Z",
+    "modified": "2025-10-10T01:12:05.867Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -323,9 +323,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:519e6e78-9543-4363-b50e-9614c31d72a8",
-        "rdfs:label": "kio",
+        "rdfs:label": "The Gap",
         "rdfs:comment": "",
-        "name": "kio",
+        "name": "The Gap",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
@@ -353,7 +353,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -390,7 +390,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -414,10 +414,10 @@
           "919097d5-c709-452a-9621-fdc7e047d136"
         ],
         "redstring:panOffset": {
-          "x": -21672.331413465476,
-          "y": -21922.981082352162
+          "x": -38522.996632077695,
+          "y": -38815.78267842525
         },
-        "redstring:zoomLevel": 0.44536172931660795,
+        "redstring:zoomLevel": 0.7840785740676985,
         "redstring:instances": {
           "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
             "@type": "redstring:Instance",
@@ -525,10 +525,10 @@
         "919097d5-c709-452a-9621-fdc7e047d136"
       ],
       "redstring:panOffset": {
-        "x": -21672.331413465476,
-        "y": -21922.981082352162
+        "x": -38522.996632077695,
+        "y": -38815.78267842525
       },
-      "redstring:zoomLevel": 0.44536172931660795,
+      "redstring:zoomLevel": 0.7840785740676985,
       "redstring:instances": {
         "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
           "@type": "redstring:Instance",
@@ -607,7 +607,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -652,7 +652,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -663,9 +663,9 @@
         "schema:Thing"
       ],
       "@id": "prototype:519e6e78-9543-4363-b50e-9614c31d72a8",
-      "rdfs:label": "kio",
+      "rdfs:label": "The Gap",
       "rdfs:comment": "",
-      "name": "kio",
+      "name": "The Gap",
       "description": "",
       "rdfs:seeAlso": [
         "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
@@ -693,7 +693,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -730,7 +730,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+        "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -805,7 +805,7 @@
       {
         "type": "node",
         "nodeId": "519e6e78-9543-4363-b50e-9614c31d72a8",
-        "title": "kio",
+        "title": "The Gap",
         "isActive": true
       }
     ],
@@ -827,10 +827,10 @@
           "919097d5-c709-452a-9621-fdc7e047d136"
         ],
         "redstring:panOffset": {
-          "x": -21672.331413465476,
-          "y": -21922.981082352162
+          "x": -38522.996632077695,
+          "y": -38815.78267842525
         },
-        "redstring:zoomLevel": 0.44536172931660795,
+        "redstring:zoomLevel": 0.7840785740676985,
         "redstring:instances": {
           "1dbf63ba-f179-45d5-bf05-3b9ded479897": {
             "@type": "redstring:Instance",
@@ -909,7 +909,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -954,7 +954,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -965,9 +965,9 @@
           "schema:Thing"
         ],
         "@id": "prototype:519e6e78-9543-4363-b50e-9614c31d72a8",
-        "rdfs:label": "kio",
+        "rdfs:label": "The Gap",
         "rdfs:comment": "",
-        "name": "kio",
+        "name": "The Gap",
         "description": "",
         "rdfs:seeAlso": [
           "https://en.wikipedia.org/wiki/KIO_(disambiguation)"
@@ -995,7 +995,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -1032,7 +1032,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:10:26.871Z"
+          "redstring:lastViewed": "2025-10-10T01:12:05.866Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1107,7 +1107,7 @@
           "x": 131.02962821699475,
           "y": -95.70855580296484
         },
-        "computedAt": 1760058626871,
+        "computedAt": 1760058725867,
         "truncated": false
       }
     }
@@ -1126,7 +1126,7 @@
         {
           "id": "1dbf63ba-f179-45d5-bf05-3b9ded479897",
           "prototypeId": "519e6e78-9543-4363-b50e-9614c31d72a8",
-          "name": "kio"
+          "name": "The Gap"
         },
         {
           "id": "8d3c7766-a809-400c-a385-ea75dbc08601",
@@ -1141,11 +1141,11 @@
           "to": "1dbf63ba-f179-45d5-bf05-3b9ded479897",
           "type": "base-connection-prototype",
           "sourceLabel": "dfa",
-          "targetLabel": "kio"
+          "targetLabel": "The Gap"
         }
       ],
-      "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (2 total):\n- kio [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n- dfa [8d3c7766-a809-400c-a385-ea75dbc08601]\n\nEdges (1 total):\n- dfa → kio (base-connection-prototype)",
-      "computedAt": 1760058626871
+      "text": "Graph: New Thing (9fa6b755-7182-49c6-a516-b6f9c30e729a)\nNodes (2 total):\n- The Gap [1dbf63ba-f179-45d5-bf05-3b9ded479897]\n- dfa [8d3c7766-a809-400c-a385-ea75dbc08601]\n\nEdges (1 total):\n- dfa → The Gap (base-connection-prototype)",
+      "computedAt": 1760058725867
     }
   }
 }
