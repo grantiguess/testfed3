@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T00:47:08.382Z",
-    "modified": "2025-10-10T00:47:08.382Z",
+    "created": "2025-10-10T00:47:17.381Z",
+    "modified": "2025-10-10T00:47:17.381Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -354,7 +354,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -369,14 +369,18 @@
         "rdfs:comment": "",
         "name": "EASTER",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "http://www.wikidata.org/entity/Q104856968"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "http://www.wikidata.org/entity/Q104856968"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -391,7 +395,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -449,8 +453,8 @@
               "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 162.74656191815302,
-              "redstring:yCoordinate": -652.9464962062193,
+              "redstring:xCoordinate": 152.79088824865903,
+              "redstring:yCoordinate": -493.6557174942427,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -519,8 +523,8 @@
             "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
           },
           "redstring:spatialContext": {
-            "redstring:xCoordinate": 162.74656191815302,
-            "redstring:yCoordinate": -652.9464962062193,
+            "redstring:xCoordinate": 152.79088824865903,
+            "redstring:yCoordinate": -493.6557174942427,
             "redstring:spatialScale": 1
           },
           "redstring:visualProperties": {},
@@ -565,7 +569,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+        "redstring:lastViewed": "2025-10-10T00:47:17.380Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -609,7 +613,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+        "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -652,7 +656,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+        "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -667,14 +671,18 @@
       "rdfs:comment": "",
       "name": "EASTER",
       "description": "",
-      "rdfs:seeAlso": [],
+      "rdfs:seeAlso": [
+        "http://www.wikidata.org/entity/Q104856968"
+      ],
       "rdfs:isDefinedBy": {
         "@id": "https://redstring.io"
       },
       "rdfs:subClassOf": {
         "@id": "type:base-thing-prototype"
       },
-      "owl:sameAs": [],
+      "owl:sameAs": [
+        "http://www.wikidata.org/entity/Q104856968"
+      ],
       "owl:equivalentClass": [],
       "redstring:spatialContext": {
         "redstring:xCoordinate": 0,
@@ -689,7 +697,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+        "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -726,6 +734,12 @@
         "type": "node",
         "nodeId": "8a577d4b-a97a-4f30-82c8-05773c0ea400",
         "title": "ea",
+        "isActive": false
+      },
+      {
+        "type": "node",
+        "nodeId": "0177dddc-4770-4e89-9395-e778a17489bd",
+        "title": "EASTER",
         "isActive": true
       }
     ],
@@ -781,8 +795,8 @@
               "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
             },
             "redstring:spatialContext": {
-              "redstring:xCoordinate": 162.74656191815302,
-              "redstring:yCoordinate": -652.9464962062193,
+              "redstring:xCoordinate": 152.79088824865903,
+              "redstring:yCoordinate": -493.6557174942427,
               "redstring:spatialScale": 1
             },
             "redstring:visualProperties": {},
@@ -827,7 +841,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.380Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -871,7 +885,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -914,7 +928,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -929,14 +943,18 @@
         "rdfs:comment": "",
         "name": "EASTER",
         "description": "",
-        "rdfs:seeAlso": [],
+        "rdfs:seeAlso": [
+          "http://www.wikidata.org/entity/Q104856968"
+        ],
         "rdfs:isDefinedBy": {
           "@id": "https://redstring.io"
         },
         "rdfs:subClassOf": {
           "@id": "type:base-thing-prototype"
         },
-        "owl:sameAs": [],
+        "owl:sameAs": [
+          "http://www.wikidata.org/entity/Q104856968"
+        ],
         "owl:equivalentClass": [],
         "redstring:spatialContext": {
           "redstring:xCoordinate": 0,
@@ -951,7 +969,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:47:08.381Z"
+          "redstring:lastViewed": "2025-10-10T00:47:17.381Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -968,8 +986,8 @@
           "prototypeId": "8a577d4b-a97a-4f30-82c8-05773c0ea400"
         },
         "8b4563f0-506c-4afb-8def-604c615ebec2": {
-          "x": 162.74656191815302,
-          "y": -652.9464962062193,
+          "x": 152.79088824865903,
+          "y": -493.6557174942427,
           "scale": 1,
           "prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd"
         }
@@ -980,14 +998,14 @@
         "boundingBox": {
           "minX": 150.2301794005325,
           "minY": -733.1782388469292,
-          "maxX": 162.74656191815302,
-          "maxY": -652.9464962062193
+          "maxX": 152.79088824865903,
+          "maxY": -493.6557174942427
         },
         "centroid": {
-          "x": 156.48837065934276,
-          "y": -693.0623675265742
+          "x": 151.51053382459577,
+          "y": -613.4169781705859
         },
-        "computedAt": 1760057228381,
+        "computedAt": 1760057237381,
         "truncated": false
       }
     }
@@ -1016,7 +1034,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (ba215b2e-570f-4a0d-a73e-e0e5c6a660a1)\nNodes (2 total):\n- ea [5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02]\n- EASTER [8b4563f0-506c-4afb-8def-604c615ebec2]\n\nEdges (0 total):",
-      "computedAt": 1760057228381
+      "computedAt": 1760057237381
     }
   }
 }
