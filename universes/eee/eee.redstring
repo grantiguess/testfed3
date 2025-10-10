@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T01:43:58.719Z",
-    "modified": "2025-10-10T01:43:58.719Z",
+    "created": "2025-10-10T01:44:08.034Z",
+    "modified": "2025-10-10T01:44:08.034Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -312,7 +312,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -349,7 +349,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -485,7 +485,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+        "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -530,7 +530,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+        "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -567,7 +567,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+        "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -680,7 +680,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -725,7 +725,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -762,7 +762,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T01:43:58.719Z"
+          "redstring:lastViewed": "2025-10-10T01:44:08.033Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -792,7 +792,7 @@
           "x": -122.41791962691059,
           "y": -120.52104750539002
         },
-        "computedAt": 1760060638719,
+        "computedAt": 1760060648033,
         "truncated": false
       }
     }
@@ -816,7 +816,7 @@
       ],
       "edges": [],
       "text": "Graph: New Thing (65364130-05b9-4ddd-bc5c-57d834f38fa9)\nNodes (1 total):\n- Sonic the Hedgehog [616d7843-f1d4-4026-ae0a-6596d339d921]\n\nEdges (0 total):",
-      "computedAt": 1760060638719
+      "computedAt": 1760060648034
     }
   }
 }
