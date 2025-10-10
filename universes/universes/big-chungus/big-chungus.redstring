@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-10T00:50:41.378Z",
-    "modified": "2025-10-10T00:50:41.378Z",
+    "created": "2025-10-10T00:51:08.377Z",
+    "modified": "2025-10-10T00:51:08.377Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,7 +267,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -311,7 +311,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -354,7 +354,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -400,7 +400,81 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "semantic-node-1760057466995-jrdxx9l65": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:semantic-node-1760057466995-jrdxx9l65",
+        "rdfs:label": "Easter + 1 Day",
+        "rdfs:comment": "",
+        "name": "Easter + 1 Day",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8b008b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "semantic-node-1760057466996-ak1k8rlf5": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:semantic-node-1760057466996-ak1k8rlf5",
+        "rdfs:label": "Easter + 1 Day",
+        "rdfs:comment": "",
+        "name": "Easter + 1 Day",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8b008b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -422,10 +496,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -39214.35586688188,
-          "y": -38826.04963499445
+          "x": -49074.976917807326,
+          "y": -48555.67348989256
         },
-        "redstring:zoomLevel": 0.7921557932613859,
+        "redstring:zoomLevel": 0.9880547805970995,
         "redstring:instances": {
           "5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02": {
             "@type": "redstring:Instance",
@@ -464,6 +538,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd"
+          },
+          "5e96da33-b789-4351-a619-7668cc1a3e33": {
+            "@type": "redstring:Instance",
+            "@id": "instance:5e96da33-b789-4351-a619-7668cc1a3e33",
+            "rdf:type": {
+              "@id": "prototype:semantic-node-1760057466995-jrdxx9l65"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 330.3546785701328,
+              "redstring:yCoordinate": -779.7587782408955,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "semantic-node-1760057466995-jrdxx9l65"
           }
         },
         "redstring:groups": {},
@@ -492,10 +585,10 @@
       ],
       "redstring:edgeIds": [],
       "redstring:panOffset": {
-        "x": -39214.35586688188,
-        "y": -38826.04963499445
+        "x": -49074.976917807326,
+        "y": -48555.67348989256
       },
-      "redstring:zoomLevel": 0.7921557932613859,
+      "redstring:zoomLevel": 0.9880547805970995,
       "redstring:instances": {
         "5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02": {
           "@type": "redstring:Instance",
@@ -534,6 +627,25 @@
           },
           "redstring:visualProperties": {},
           "redstring:prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd"
+        },
+        "5e96da33-b789-4351-a619-7668cc1a3e33": {
+          "@type": "redstring:Instance",
+          "@id": "instance:5e96da33-b789-4351-a619-7668cc1a3e33",
+          "rdf:type": {
+            "@id": "prototype:semantic-node-1760057466995-jrdxx9l65"
+          },
+          "rdfs:label": null,
+          "rdfs:comment": null,
+          "redstring:containedIn": {
+            "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
+          },
+          "redstring:spatialContext": {
+            "redstring:xCoordinate": 330.3546785701328,
+            "redstring:yCoordinate": -779.7587782408955,
+            "redstring:spatialScale": 1
+          },
+          "redstring:visualProperties": {},
+          "redstring:prototypeId": "semantic-node-1760057466995-jrdxx9l65"
         }
       },
       "redstring:groups": {},
@@ -574,7 +686,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -618,7 +730,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -661,7 +773,7 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
       },
       "redstring:abstractionChains": {}
     },
@@ -707,7 +819,81 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "semantic-node-1760057466995-jrdxx9l65": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:semantic-node-1760057466995-jrdxx9l65",
+      "rdfs:label": "Easter + 1 Day",
+      "rdfs:comment": "",
+      "name": "Easter + 1 Day",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8b008b"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": true,
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+      },
+      "redstring:abstractionChains": {}
+    },
+    "semantic-node-1760057466996-ak1k8rlf5": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:semantic-node-1760057466996-ak1k8rlf5",
+      "rdfs:label": "Easter + 1 Day",
+      "rdfs:comment": "",
+      "name": "Easter + 1 Day",
+      "description": "",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": {
+        "@id": "type:base-thing-prototype"
+      },
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8b008b"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": "base-thing-prototype",
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": true,
+        "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
       },
       "redstring:abstractionChains": {}
     }
@@ -753,7 +939,10 @@
         "isActive": true
       }
     ],
-    "redstring:savedNodeIds": [],
+    "redstring:savedNodeIds": [
+      "semantic-node-1760057466995-jrdxx9l65",
+      "semantic-node-1760057466996-ak1k8rlf5"
+    ],
     "redstring:savedGraphIds": [],
     "redstring:showConnectionNames": false
   },
@@ -769,10 +958,10 @@
         ],
         "redstring:edgeIds": [],
         "redstring:panOffset": {
-          "x": -39214.35586688188,
-          "y": -38826.04963499445
+          "x": -49074.976917807326,
+          "y": -48555.67348989256
         },
-        "redstring:zoomLevel": 0.7921557932613859,
+        "redstring:zoomLevel": 0.9880547805970995,
         "redstring:instances": {
           "5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02": {
             "@type": "redstring:Instance",
@@ -811,6 +1000,25 @@
             },
             "redstring:visualProperties": {},
             "redstring:prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd"
+          },
+          "5e96da33-b789-4351-a619-7668cc1a3e33": {
+            "@type": "redstring:Instance",
+            "@id": "instance:5e96da33-b789-4351-a619-7668cc1a3e33",
+            "rdf:type": {
+              "@id": "prototype:semantic-node-1760057466995-jrdxx9l65"
+            },
+            "rdfs:label": null,
+            "rdfs:comment": null,
+            "redstring:containedIn": {
+              "@id": "graph:ba215b2e-570f-4a0d-a73e-e0e5c6a660a1"
+            },
+            "redstring:spatialContext": {
+              "redstring:xCoordinate": 330.3546785701328,
+              "redstring:yCoordinate": -779.7587782408955,
+              "redstring:spatialScale": 1
+            },
+            "redstring:visualProperties": {},
+            "redstring:prototypeId": "semantic-node-1760057466995-jrdxx9l65"
           }
         },
         "redstring:groups": {},
@@ -851,7 +1059,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -895,7 +1103,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -938,7 +1146,7 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       },
@@ -984,7 +1192,81 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-10-10T00:50:41.378Z"
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "semantic-node-1760057466995-jrdxx9l65": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:semantic-node-1760057466995-jrdxx9l65",
+        "rdfs:label": "Easter + 1 Day",
+        "rdfs:comment": "",
+        "name": "Easter + 1 Day",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8b008b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
+        },
+        "redstring:abstractionChains": {}
+      },
+      "semantic-node-1760057466996-ak1k8rlf5": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:semantic-node-1760057466996-ak1k8rlf5",
+        "rdfs:label": "Easter + 1 Day",
+        "rdfs:comment": "",
+        "name": "Easter + 1 Day",
+        "description": "",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": {
+          "@id": "type:base-thing-prototype"
+        },
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8b008b"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": "base-thing-prototype",
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": true,
+          "redstring:lastViewed": "2025-10-10T00:51:08.377Z"
         },
         "redstring:abstractionChains": {}
       }
@@ -1005,22 +1287,28 @@
           "y": -611.051623499181,
           "scale": 1,
           "prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd"
+        },
+        "5e96da33-b789-4351-a619-7668cc1a3e33": {
+          "x": 330.3546785701328,
+          "y": -779.7587782408955,
+          "scale": 1,
+          "prototypeId": "semantic-node-1760057466995-jrdxx9l65"
         }
       },
       "metadata": {
-        "nodeCount": 2,
+        "nodeCount": 3,
         "edgeCount": 0,
         "boundingBox": {
           "minX": 102.66213276884082,
-          "minY": -715.2600298346442,
-          "maxX": 147.99040327399416,
+          "minY": -779.7587782408955,
+          "maxX": 330.3546785701328,
           "maxY": -611.051623499181
         },
         "centroid": {
-          "x": 125.32626802141749,
-          "y": -663.1558266669126
+          "x": 193.66907153765592,
+          "y": -702.0234771915735
         },
-        "computedAt": 1760057441378,
+        "computedAt": 1760057468377,
         "truncated": false
       }
     }
@@ -1030,11 +1318,11 @@
       "id": "ba215b2e-570f-4a0d-a73e-e0e5c6a660a1",
       "name": "New Thing",
       "description": "",
-      "nodeCount": 2,
+      "nodeCount": 3,
       "edgeCount": 0,
       "density": 0,
       "quality": "disconnected",
-      "score": 5,
+      "score": 6,
       "nodes": [
         {
           "id": "5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02",
@@ -1045,11 +1333,16 @@
           "id": "8b4563f0-506c-4afb-8def-604c615ebec2",
           "prototypeId": "0177dddc-4770-4e89-9395-e778a17489bd",
           "name": "EASTER"
+        },
+        {
+          "id": "5e96da33-b789-4351-a619-7668cc1a3e33",
+          "prototypeId": "semantic-node-1760057466995-jrdxx9l65",
+          "name": "Easter + 1 Day"
         }
       ],
       "edges": [],
-      "text": "Graph: New Thing (ba215b2e-570f-4a0d-a73e-e0e5c6a660a1)\nNodes (2 total):\n- ea [5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02]\n- EASTER [8b4563f0-506c-4afb-8def-604c615ebec2]\n\nEdges (0 total):",
-      "computedAt": 1760057441378
+      "text": "Graph: New Thing (ba215b2e-570f-4a0d-a73e-e0e5c6a660a1)\nNodes (3 total):\n- ea [5ea5beea-b3e9-4c6e-aaa7-70d9289a1a02]\n- EASTER [8b4563f0-506c-4afb-8def-604c615ebec2]\n- Easter + 1 Day [5e96da33-b789-4351-a619-7668cc1a3e33]\n\nEdges (0 total):",
+      "computedAt": 1760057468377
     }
   }
 }
