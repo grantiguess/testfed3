@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-10-11T05:43:58.917Z",
-    "modified": "2025-10-11T05:43:58.917Z",
+    "created": "2025-10-11T05:44:04.880Z",
+    "modified": "2025-10-11T05:44:04.880Z",
     "title": "Untitled Space",
     "description": "",
     "domain": null,
@@ -236,7 +236,43 @@
     "@id": "space:prototypes",
     "rdfs:label": "RedString Prototype Space",
     "rdfs:comment": "Collection of semantic classes with spatial properties",
-    "prototypes": {}
+    "prototypes": {
+      "base-thing-prototype": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:base-thing-prototype",
+        "rdfs:label": "Thing",
+        "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "name": "Thing",
+        "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-11T05:44:04.880Z"
+        },
+        "redstring:abstractionChains": {}
+      }
+    }
   },
   "spatialGraphs": {
     "@type": "redstring:SpatialGraphCollection",
@@ -253,7 +289,43 @@
     "edges": {}
   },
   "graphs": {},
-  "nodePrototypes": {},
+  "nodePrototypes": {
+    "base-thing-prototype": {
+      "@type": [
+        "redstring:Prototype",
+        "rdfs:Class",
+        "schema:Thing"
+      ],
+      "@id": "prototype:base-thing-prototype",
+      "rdfs:label": "Thing",
+      "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "name": "Thing",
+      "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+      "rdfs:seeAlso": [],
+      "rdfs:isDefinedBy": {
+        "@id": "https://redstring.io"
+      },
+      "rdfs:subClassOf": null,
+      "owl:sameAs": [],
+      "owl:equivalentClass": [],
+      "redstring:spatialContext": {
+        "redstring:xCoordinate": 0,
+        "redstring:yCoordinate": 0,
+        "redstring:spatialScale": 1
+      },
+      "redstring:visualProperties": {
+        "redstring:cognitiveColor": "#8B0000"
+      },
+      "redstring:definitionGraphIds": [],
+      "redstring:typeNodeId": null,
+      "redstring:citations": [],
+      "redstring:cognitiveProperties": {
+        "redstring:bookmarked": false,
+        "redstring:lastViewed": "2025-10-11T05:44:04.880Z"
+      },
+      "redstring:abstractionChains": {}
+    }
+  },
   "edges": {},
   "globalSpatialContext": {
     "@type": "redstring:SpatialContext",
@@ -285,7 +357,43 @@
   },
   "legacy": {
     "graphs": {},
-    "nodePrototypes": {},
+    "nodePrototypes": {
+      "base-thing-prototype": {
+        "@type": [
+          "redstring:Prototype",
+          "rdfs:Class",
+          "schema:Thing"
+        ],
+        "@id": "prototype:base-thing-prototype",
+        "rdfs:label": "Thing",
+        "rdfs:comment": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "name": "Thing",
+        "description": "The base type for all things. Things are nodes, ideas, nouns, concepts, objects, whatever you want them to be. They will always be at the bottom of the abstraction stack. They are the \"atoms\" of your Redstring universe.",
+        "rdfs:seeAlso": [],
+        "rdfs:isDefinedBy": {
+          "@id": "https://redstring.io"
+        },
+        "rdfs:subClassOf": null,
+        "owl:sameAs": [],
+        "owl:equivalentClass": [],
+        "redstring:spatialContext": {
+          "redstring:xCoordinate": 0,
+          "redstring:yCoordinate": 0,
+          "redstring:spatialScale": 1
+        },
+        "redstring:visualProperties": {
+          "redstring:cognitiveColor": "#8B0000"
+        },
+        "redstring:definitionGraphIds": [],
+        "redstring:typeNodeId": null,
+        "redstring:citations": [],
+        "redstring:cognitiveProperties": {
+          "redstring:bookmarked": false,
+          "redstring:lastViewed": "2025-10-11T05:44:04.880Z"
+        },
+        "redstring:abstractionChains": {}
+      }
+    },
     "edges": {}
   },
   "graphLayouts": {},
