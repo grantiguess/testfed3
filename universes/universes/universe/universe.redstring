@@ -212,8 +212,8 @@
   "format": "redstring-v3.0.0",
   "metadata": {
     "version": "3.0.0",
-    "created": "2025-12-07T00:38:28.333Z",
-    "modified": "2025-12-07T00:38:28.333Z",
+    "created": "2025-12-07T00:50:07.876Z",
+    "modified": "2025-12-07T00:50:07.876Z",
     "title": "New Thing",
     "description": "",
     "domain": null,
@@ -267,9 +267,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "base-connection-prototype": {
         "@type": [
@@ -301,9 +302,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "976c001b-354d-489f-aacb-90bd405e314f": {
         "@type": [
@@ -345,9 +347,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "51741101-0d1b-4ba1-99fd-3b9a8125e14c": {
         "@type": [
@@ -390,9 +393,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "560f415b-02c9-49f3-8688-a684deaa7d0a": {
         "@type": [
@@ -434,9 +438,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       }
     }
   },
@@ -1677,9 +1682,10 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+        "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
       },
-      "redstring:abstractionChains": {}
+      "redstring:abstractionChains": {},
+      "redstring:agentConfig": null
     },
     "base-connection-prototype": {
       "@type": [
@@ -1711,9 +1717,10 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+        "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
       },
-      "redstring:abstractionChains": {}
+      "redstring:abstractionChains": {},
+      "redstring:agentConfig": null
     },
     "976c001b-354d-489f-aacb-90bd405e314f": {
       "@type": [
@@ -1755,9 +1762,10 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": true,
-        "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+        "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
       },
-      "redstring:abstractionChains": {}
+      "redstring:abstractionChains": {},
+      "redstring:agentConfig": null
     },
     "51741101-0d1b-4ba1-99fd-3b9a8125e14c": {
       "@type": [
@@ -1800,9 +1808,10 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+        "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
       },
-      "redstring:abstractionChains": {}
+      "redstring:abstractionChains": {},
+      "redstring:agentConfig": null
     },
     "560f415b-02c9-49f3-8688-a684deaa7d0a": {
       "@type": [
@@ -1844,9 +1853,10 @@
       "redstring:citations": [],
       "redstring:cognitiveProperties": {
         "redstring:bookmarked": false,
-        "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+        "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
       },
-      "redstring:abstractionChains": {}
+      "redstring:abstractionChains": {},
+      "redstring:agentConfig": null
     }
   },
   "edges": {
@@ -2825,9 +2835,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "base-connection-prototype": {
         "@type": [
@@ -2859,9 +2870,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "976c001b-354d-489f-aacb-90bd405e314f": {
         "@type": [
@@ -2903,9 +2915,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": true,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "51741101-0d1b-4ba1-99fd-3b9a8125e14c": {
         "@type": [
@@ -2948,9 +2961,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       },
       "560f415b-02c9-49f3-8688-a684deaa7d0a": {
         "@type": [
@@ -2992,9 +3006,10 @@
         "redstring:citations": [],
         "redstring:cognitiveProperties": {
           "redstring:bookmarked": false,
-          "redstring:lastViewed": "2025-12-07T00:38:28.333Z"
+          "redstring:lastViewed": "2025-12-07T00:50:07.876Z"
         },
-        "redstring:abstractionChains": {}
+        "redstring:abstractionChains": {},
+        "redstring:agentConfig": null
       }
     },
     "edges": {
@@ -3649,7 +3664,7 @@
           "x": 102.44924412195542,
           "y": 229.24276465790535
         },
-        "computedAt": 1765067908333,
+        "computedAt": 1765068607876,
         "truncated": false
       }
     },
@@ -3717,7 +3732,7 @@
           "x": -48651.02552153236,
           "y": -48198.238717273394
         },
-        "computedAt": 1765067908333,
+        "computedAt": 1765068607876,
         "truncated": false
       }
     }
@@ -3797,7 +3812,7 @@
         }
       ],
       "text": "Graph: New Thing (de7b78ab-294a-46dd-a957-57438669d3d5)\nNodes (4 total):\n- Dr [6a8e2800-8e5d-4902-b9ac-a29da9714c95]\n- Dr [eefb3550-9303-42b7-909f-ad8345b0493c]\n- Dr [d724f3c4-19d5-40bc-9522-b0bc932746bb]\n- Connection [f247eb16-a249-4e36-a016-b4f733f20f99]\n\nEdges (5 total):\n- Dr → Dr (Connection)\n- Dr → Connection (Connection)\n- Dr → Dr (Connection)\n- Dr → Dr (Connection)\n- Dr → Connection (Connection)",
-      "computedAt": 1765067908333
+      "computedAt": 1765068607876
     },
     "2f65cab4-7c13-4e2f-a6a4-4ac8e7473190": {
       "id": "2f65cab4-7c13-4e2f-a6a4-4ac8e7473190",
@@ -3941,7 +3956,7 @@
         }
       ],
       "text": "Graph: New Thing (2f65cab4-7c13-4e2f-a6a4-4ac8e7473190)\nNodes (8 total):\n- Dr [d0ca8a99-e593-40f7-be1a-ff3a3331e082]\n- Dr [471c0936-cb9c-443b-9d98-07dc2967facd]\n- New Thing [49ca03d6-0a86-42cd-80f6-2c489532d700]\n- Dr [73ed8b7c-d73a-4d0c-9146-12f23f3c62d4]\n- Dr [7571c0ae-b641-4e81-9aa1-56df08461777]\n- Connection [948158a5-7c61-478f-a683-c62643123584]\n- New Thing [f8f4bed0-4814-4ca0-ad4b-3d8876335560]\n- Dr [bd175ae2-0e05-48d1-bb24-b63eba61ce94]\n\nEdges (11 total):\n- New Thing → Dr (Connection)\n- Dr → New Thing (Connection)\n- Dr → Dr (Connection)\n- Dr → Dr (Connection)\n- Dr → Dr (Connection)\n- Dr → Dr (Connection)\n- New Thing → Dr (Connection)\n- Dr → Dr (Connection)\n- New Thing → New Thing (Connection)\n- Dr → Dr (Connection)\n- Connection → Dr (Connection)",
-      "computedAt": 1765067908333
+      "computedAt": 1765068607876
     }
   }
 }
